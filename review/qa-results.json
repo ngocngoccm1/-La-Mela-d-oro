@@ -1,0 +1,183 @@
+{
+  "layouts": [
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "heading": {
+        "x": 27.5,
+        "y": 187.890625,
+        "width": 320,
+        "height": 194.59375,
+        "top": 187.890625,
+        "right": 347.5,
+        "bottom": 382.484375,
+        "left": 27.5
+      },
+      "images": [
+        {
+          "src": "assets/hero-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sushi.webp",
+          "loaded": false
+        },
+        {
+          "src": "assets/pasta.webp",
+          "loaded": false
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "heading": {
+        "x": 35,
+        "y": 187.890625,
+        "width": 320,
+        "height": 202.359375,
+        "top": 187.890625,
+        "right": 355,
+        "bottom": 390.25,
+        "left": 35
+      },
+      "images": [
+        {
+          "src": "assets/hero-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sushi.webp",
+          "loaded": false
+        },
+        {
+          "src": "assets/pasta.webp",
+          "loaded": false
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "scrollWidth": 430,
+      "heading": {
+        "x": 55,
+        "y": 187.890625,
+        "width": 320,
+        "height": 223.125,
+        "top": 187.890625,
+        "right": 375,
+        "bottom": 411.015625,
+        "left": 55
+      },
+      "images": [
+        {
+          "src": "assets/hero-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sushi.webp",
+          "loaded": false
+        },
+        {
+          "src": "assets/pasta.webp",
+          "loaded": false
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "heading": {
+        "x": 38.390625,
+        "y": 234.546875,
+        "width": 302.921875,
+        "height": 189.15625,
+        "top": 234.546875,
+        "right": 341.3125,
+        "bottom": 423.703125,
+        "left": 38.390625
+      },
+      "images": [
+        {
+          "src": "assets/hero-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sushi.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pasta.webp",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "heading": {
+        "x": 72,
+        "y": 247.4375,
+        "width": 569.796875,
+        "height": 320,
+        "top": 247.4375,
+        "right": 641.796875,
+        "bottom": 567.4375,
+        "left": 72
+      },
+      "images": [
+        {
+          "src": "assets/hero-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sushi.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pasta.webp",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "heading": {
+        "x": 96,
+        "y": 272.4375,
+        "width": 771.390625,
+        "height": 360.328125,
+        "top": 272.4375,
+        "right": 867.390625,
+        "bottom": 632.765625,
+        "left": 96
+      },
+      "images": [
+        {
+          "src": "assets/hero-1600.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sushi.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pasta.webp",
+          "loaded": true
+        }
+      ],
+      "overflow": []
+    }
+  ],
+  "count": 264,
+  "categories": 38,
+  "needsReview": 11,
+  "functional": "passed",
+  "errors": []
+}

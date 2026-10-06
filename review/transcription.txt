@@ -1,0 +1,306 @@
+@1|Pizze|Pizza
+701|Margherita|Pizza mit Tomatensoße, Mozzarella, Oregano|9.90|A,B,D
+702|Salami|Pizza mit Tomatensoße, Käse, Salami|11.90|A,B,D,4,8
+703|Prosciutto|Pizza mit Tomatensoße, Käse, Schinken|11.90|A,B,D,4
+704|Napolitana|Pizza mit Tomatensoße, Käse, Sardellen|12.90|A,B,D,E
+705|Funghi|Pizza mit Tomatensoße, Käse, Champignons|11.90|A,B,D
+706|Romana|Pizza mit Tomatensoße, Käse, Speck, Zwiebeln|12.90|A,B,D,4
+707|Regina|Pizza mit Tomatensoße, Käse, Schinken, Champignons|13.90|A,B,D,4
+708|Contadina|Pizza mit Tomatensoße, Käse, Gorgonzola, scharfer Mini-Salami|15.90|A,B,D,4,8
+709|Quattro Stagioni – Vier Jahreszeiten|Pizza mit Tomatensoße, Käse, Schinken, Pilzen, Pepperoni, Artischocken, Oliven|16.90|A,B,D,4
+710|Tonno e Cipolla|Pizza mit Tomatensoße, Käse, Thunfisch, Zwiebeln|14.90|A,B,D,E
+711|Hawai|Pizza mit Tomatensoße, Käse, Ananas, Schinken|13.90|A,B,D,4
+712|Capricciosa|Pizza mit Tomatensoße, Pilzen, Salami, Paprika, Ei, Oliven|14.90|A,B,D,4,8
+713|Calzone|Pizza gefüllt: Tomatensoße, Käse, Schinken, Salami, Knoblauch, Champignons, Ei (auf Wunsch)|15.90|A,B,D,4,8
+714|Quattro Formagi – vier Käsesorten|Pizza mit Tomatensoße und vier Käsesorten|15.90|A,B,D
+@2|Alcolici|Schnäpse & Liköre
+988|Sherry||4 cl:5.10;2 cl:2.80|
+9900|Marsala||4 cl:5.10;2 cl:2.80|
+9910|Averna||4 cl:5.60;2 cl:3.10|
+9911|Wodka||4 cl:5.10;2 cl:2.80|
+@2|Cocktails|Cocktails
+760|Aperol Spritz|Aperol, Sekt, Mineralwasser, Eiswürfel|6.90|
+761|Tequila Sunrise|weißer Tequila, Zitronensaft, Orangensaft, Grenadine|6.90|
+762|Cuba Libre|Rum, Cola, Limette|6.90|
+763|Campari Orange|Campari, Orangensaft, Eiswürfel|6.90|
+764|Lillet Wildberry|Lillet, Wildberry Limonade, Eiswürfel|7.90|
+@3|Pesce d’Acqua dolce|Süßwasser-Fischgerichte
+450|Fischfilet auf Salat mit Limonensoße|mit Forelle|19.90|E
+452|Trota alla Griglia|Forelle vom Grill (ca. 500 g) mit Beilagen|19.90|E
+453|Filetto di Trota su verdure|Forellenfilet mit Gemüsestreifen, Beilagen|19.90|E
+454|Trota in Burro con Salvia|Forelle (ca. 500 g) in Butter und Salbei-Soße|20.90|B,E
+455|Trota ai Cartoccio|Forelle (ca. 500 g) in Alufolie zubereitet, mit Thymian, Rosmarin und Kartoffeln|23.90|E
+@4|Canelloni|Canelloni
+221|Canelloni Vegetariani|Canelloni mit Gemüsefüllung|13.90|A,D
+222|Canelloni di Carne|Canelloni mit Fleischfüllung|15.90|A,D
+@4|Lasagne|Lasagne
+223|Lasagne al Forno|Lasagne, im Ofen überbacken|15.90|A,B,D
+@4|Primi Piatti di Riso|Reisgerichte
+230|Risotto Frutti di Mare|Reisgericht mit Meeresfrüchten und Cherrytomaten|17.90|A,C,E
+231|Risotto Aglio e Olio|Reisgericht mit Knoblauch, Olivenöl, Cherrytomaten|16.90|A
+@5|Sashimi|Sashimi
+132|Sake Sashimi|Lachs – 8 Stück|16.90|
+133|Tuna Sashimi|Thunfisch – 8 Stück|18.90|
+134|Tuna-Salmon-Sashimi|Thunfisch/Lachs – 8 Stück|20.90|
+135|Sashimi Zeitz|Lachs/Thunfisch/Garnelen – 9 Stück|22.90|
+@5|Nigiri|Nigiri|2 Stück mit zweierlei japanischer Cocktailsoße
+136|Sake|Lachs|5.50|
+137|Maguro|Thunfisch|5.90|
+138|Avocado|Avocado|5.50|
+139|Ebi|Garnelen|5.90|
+140|Tamago|gesüßtes Omelett|5.50|
+141|Abujaki Salmon|Lachs flambiert|5.90|
+@6|Alcolici|Schnäpse & Liköre
+970|Kümmerling||2 cl:2.50|
+971|Wilthener Gebirgskräuter||4 cl:3.90;2 cl:2.50|
+972|Obstler||4 cl:5.10;2 cl:2.80|
+973|Williams Christ||4 cl:5.10;2 cl:2.80|
+974|Doppel Korn||4 cl:3.90;2 cl:2.50|
+975|Goldkrone||4 cl:3.90;2 cl:2.50|
+976|Fernet Branca||4 cl:5.60;2 cl:3.10|
+977|Jägermeister||4 cl:5.10;2 cl:2.80|
+978|Bailey’s Irish Cream||4 cl:5.10;2 cl:2.80|
+979|Ramazotti||4 cl:5.10;2 cl:2.90|
+980|Amaretto di Saronno||2 cl:2.50|
+981|Cointreau||4 cl:5.60;2 cl:3.10|
+982|Grappa||4 cl:5.10;2 cl:2.80|
+984|Vecchia Romagna||4 cl:5.80;2 cl:3.50|
+985|Martini Bianco||4 cl:4.80|
+986|Martini Dry||4 cl:4.80|
+@7|Special Roll|Special Roll|8 Stück, mit Avocado, Gurke, Schmelzkäse
+171|Mimi Roll|Mango + Shinko + Sesam + mit Avocado umwickelt|13.90|
+172|Zeitz Roll|gegrillte Chicken Yakitori + Mango + Sesam + mit Hähnchenbrust umwickelt & Unagi-Butter-Soße|15.90|
+173|Salmon Lover|Lachs + Tobico + Sesam + mit Lachs umwickelt|13.90|
+174|Tuna Lover|Thunfisch + Tobico + Sesam + mit Thunfisch umwickelt|14.90|
+175|Beef Queen Roll|Rinderfilet + Tobico + mit Rind umwickelt|16.90|
+176|Tuna Royal Roll|Thunfisch + Tobico + Sesam + mit Avocado umwickelt|14.90|
+177|Tila Roll|panierte Rolle + Surimi + Schmelzkäse + in Tempuramehl|14.90|
+178|Tuti Roll|Garnelen + Mango + Sesam|13.90|
+179|Salmon Tempura Roll|Garnelen + Tempura + Sesam + Tobico + mit Lachs umwickelt|15.90|
+180|Best Friend Roll|Lachs + Thunfisch + Schmelzkäse + umwickelt mit flambiertem Lachs und Thunfisch|15.90|
+@8|Pizze|Pizza
+715|Mare e Monti|Pizza mit Tomatensoße, Käse, Shrimps, Steinpilze, Rucola|16.90|A,B,C,D
+716|Delisiosa|Pizza mit Tomatensoße, Käse, Parmaschinken, Rucola, Parmesanflöckchen|18.90|A,B,D,4
+717|Scampi|Pizza mit Tomatensoße, Garnelen|21.90|A,B,C,D
+@8|Spezialita per Bambini|Für Kinder
+750|Spaghetti ai Burro oder Rigatoni|Spaghetti mit Butter|6.90|A,B,D
+751|Spaghetti Bologna|Spaghetti mit Hackfleischsoße|7.90|A,D
+752|Rigatoni oder Spaghetti Napoli|Rigatoni mit Tomatensoße|7.20|A,D
+753|Cotoletta con Patadine|Schweineschnitzel mit Pommes Frittes|8.90|
+754|Filetto di Pesce Fritto|Pangasius paniert und frittiert|8.90|E
+@8|Beilagen|Beilagen
+extra|Kroketten / Pommes Frites / Bratkartoffeln|Portion / extra|4.50|
+@9|Pesce di Mare|Meeres-Fischgerichte
+401|Scampi alla Griglia|Riesengarnelen vom Grill, Beilagen|28.90|C
+402|Scampi al Cartoccio|Riesengarnelen mit Shrimps, Champignons und Cherrytomaten, in Alufolie zubereitet, mit Salat|28.90|C
+403|Scampi allo Spiedo|für 1 Person; Riesengarnelen im Mantel aus Parmaschinken, Zwiebeln, Paprika, am Spieß gegrillt, Reis, mit Salat|28.90|C,4
+404|Misto di Pesce alla Griglia|für 1 Person; verschiedene Sorten Meeresfische vom Grill, Remouladensoße, Beilagen|27.90|B,C,E
+405|Calamari alla Griglia|Tuben-Tintenfisch vom Grill, Beilagen|23.90|E
+406|Salmone all Griglia|Lachs vom Grill, Beilagen|19.90|E
+407|Salmone al Pernod|Lachs in einer Pernod-Soße, Beilagen|22.90|E
+408|Calamari Fritti|Tuben-Tintenfisch, frittiert, Beilagen|23.90|E
+409|Fritto Misto di Pesce|für 1 Person; verschiedene Sorten Meeresfische, frittiert, Beilagen|27.90|E
+410|Rombo alla Griglia|Heilbutt vom Grill, Tartarsoße, Beilagen (ca. 250 g)|24.50|B,E
+411|Orate alla Griglia|Dorade vom Grill, Tartarsoße, Beilagen (ca. 500 g)|26.90|B,E
+412|Thuna alla Griglia|Thunfischsteak vom Grill, auf Rucola, Beilagen|26.90|
+415|Filetto di tilapia e 3 Scampi|150 g Tilapia + 3 Scampi vom Grill, Tartarsoße, Beilagen|23.50|B,C,E
+416|Lucioperca|300 g Zanderfilet vom Grill, Tartarsoße, Beilagen|23.90|B,E
+417|Baramundi|250 g Baramundi vom Grill, Tartarsoße, Beilagen|24.90|B,E
+@10|Bevande Analcolici|Alkoholfreie Getränke
+935|San Pelegrino|italienisches Mineralwasser|0,75 l:6.90|
+936|Mineralwasser|einheimisch|0,2 l:2.50|
+937|Mineralwasser|einheimisch|0,4 l:3.50|
+938|Cola|koffeinhaltige Limonade|0,2 l:2.50|8,10
+939|Cola|koffeinhaltige Limonade|0,4 l:4.10|8,10
+940|Fanta|Orangenlimonade|0,2 l:2.50|8
+941|Fanta|Orangenlimonade|0,4 l:4.10|8
+942|Sprite|Zitronenlimonade|0,2 l:2.50|
+943|Sprite|Zitronenlimonade|0,4 l:4.10|
+944|Spezi|koffeinhaltige Limonade Cola/Orangenlimonade|0,2 l:2.50|8,10
+945|Spezi|koffeinhaltige Limonade Cola/Orangenlimonade|0,4 l:4.10|8,10
+@11|Gelati|Eis
+799|Nussknacker|Schoko- und Vanilleeis mit Nüssen und Sahne|7.90|B
+800|Tropica|Vanilleeis mit Orangensaft|6.90|B
+807|Vanilleeis mit heißen Himbeeren||8.90|B
+808|Früchtebecher|gemischtes Eis mit Früchten und Sahne|7.90|B
+810|Schokoladeneis mit Eierlikör||7.90|B,D
+811|Eisschokolade||5.90|B
+812|Eiskaffee||6.90|B,10
+813|Tartufo Nero|getrüffeltes Eis mit Zabaione|6.90|B,D
+@11|Dolce|Desserts
+804|Tiramisu|hausgemachte italienische Süßspeisen-Spezialität|7.90|B,D
+805|Panna Cotta|hausgemachte Sahnesüßspeise mit Vecchia Romagna|6.90|B
+806|Zabaione|hausgemachte Eier-Süßspeise mit Marsalla und Weißwein|6.90|B,D
+816|Gebackene Banane oder Ananas|mit Honig und Vanilleeis|7.90|
+@12|Inside Out Roll|Inside Out Roll|8 Stück, mit Avocado, Gurke, Schmelzkäse
+151|Green Roll|vegetarische Variation, Sesam|11.90|
+152|Rucola Roll|Rucola, Mango|11.90|
+153|Salmon Roll|Lachs, Sesam|12.50|
+154|Tuna Roll|Thunfisch, Sesam|12.90|
+155|Spicy Salmon Roll|leicht scharfer Lachs, Sesam|13.50|
+156|Spicy Tuna Roll|leicht scharfer Thunfisch, Sesam|13.90|
+157|Ebi Fried Roll|Garnelen, Sesam|12.90|
+158|Gyu Roll|Rinderfilet, Sesam|15.90|
+159|Chicken Roll|gegrillte Hähnchenbrust, Sesam|13.90|
+@13|Bevande Analcolici|Alkoholfreie Getränke
+946|Apfelsaft-Schorle|Apfelsaft-Mineralwasser-Getränk|0,2 l:2.50|
+947|Apfelsaft-Schorle|Apfelsaft-Mineralwasser-Getränk|0,4 l:4.10|
+948|Bitter-Lemon|chininhaltige Limonade|0,2 l:2.60;0,4 l:4.30|12
+949|Tonic Water|chininhaltige Limonade|0,2 l:2.60;0,4 l:4.30|12
+950|Ginger Ale|ingwerhaltige Limonade|0,2 l:2.60;0,4 l:4.30|
+@13|Succhi|Säfte
+922|Succo di Ciliegie|Kirschnektar|0,2 l:2.90;0,4 l:4.50|
+923|Succo di Pompelmo|Grapefruitnektar|0,2 l:2.90;0,4 l:4.50|
+924|Succo d’Ananas|Ananasnektar|0,2 l:2.90;0,4 l:4.50|
+925|Succo di Pomodoro|Tomatensaft|0,2 l:2.90;0,4 l:4.50|
+926|Succo di Mele|Apfelsaft|0,2 l:2.90;0,4 l:4.50|
+927|Succo di Banana|Bananennektar|0,2 l:2.90;0,4 l:4.50|
+929|Succo d’Arancia|Orangensaft|0,2 l:2.90;0,4 l:4.50|
+930|Succo Misto di Banana e Ciliegie|KiBa – Kirsch-Bananen-Nektar|0,2 l:2.90;0,4 l:4.50|
+@14|Vini rossi|Rotweine|Flaschenpreise bitte beim Personal nachfragen. Alle Weine und Sekte enthalten Sulfite.
+902|Merlot|milder, oft als halbtrocken bezeichneter Rotwein aus dem Süden|0,2 l:6.50|
+903|Montepulciano d’Abruzzo|herber, leicht erdiger, trockener Rotwein aus den Abruzzen|0,2 l:6.50|
+904|Chianti|weltberühmter Rotwein aus Oberitalien|0,2 l:6.50|
+905|Bardolino|herb-fruchtiger Rotwein aus Norditalien|0,2 l:6.50|
+907|Lambrusco|süßer, leicht moussierender Rotwein|0,2 l:6.50|
+908|Weinschorle, rot||0,2 l:6.50|
+@14|Vini Bianchi|Weißweine & Sekt|Flaschenpreise bitte beim Personal nachfragen. Alle Weine und Sekte enthalten Sulfite.
+911|Soave|trockener Weißwein|0,2 l:6.30|
+912|Chardonnay|leichter, trockener Weißwein|0,2 l:6.30|
+913|Frizzantino|spritziger, süßlicher-süffiger Weißwein|0,2 l:6.30|
+914|Weinschorle, weiß||0,2 l:6.30|
+915|Pinot Grigio|halbtrockener Weißwein|0,2 l:6.30|
+919|Prosecco||0,1 l:3.90|
+920|Rotkäppchen, Sekt||0,1 l:3.50|
+@15|Sushi|Maki
+120|Sake Maki|Lachs|5.90|
+121|Edo Maki|Lachs/Avocado|6.20|
+122|Tekka Maki|Thunfisch|6.40|
+123|Tekka Avocado Maki|Thunfisch/Avocado|6.70|
+124|Spicy Tuna|leicht scharfer Thunfisch, gehackt|6.90|
+125|Spicy Salmon|leicht scharfer Lachs, gehackt|6.70|
+126|Ebi Maki|Riesengarnele/Gurke|6.20|
+127|Avocado Maki|Avocado|5.10|
+128|Kappa Maki|Gurke|5.10|
+129|Tamago Maki|Omelett|5.10|
+130|Futo Maki|Thunfisch/Lachs/Avocado/Gurke/Shinko|10.90|
+131|Chicken Maki|gegrillte Hähnchenbrust|11.90|
+@16|Rigatoni|Rigatoni
+212|Rigatoni Quattro Formaggi|Rigatoni mit vier Käsesorten|14.90|A,B,D
+213|Rigatoni con Salsiccia Piccante|Rigatoni mit Kräuter-Pesto und pikanter italienischer Minisalami|14.90|A,D,4,8
+214|Rigatoni della Casa|Rigatoni mit Speck, Rucola und Cherrytomaten|14.90|A,D,4
+215|Rigatoni Vegetariani|Rigatoni mit Gemüsestreifen|13.90|A,D
+@16|Tagliatelle|Tagliatelle
+216|Tagliatelle Emiliana|Bandnudeln mit Schinken, Champignons, Erbsen in Sahnesoße|15.90|A,B,D,4
+217|Tagliatelle Salmone|Bandnudeln mit frischem Lachs, Wodka und Sahne, Tomatensoße|17.90|A,D,E
+451|Tagliatelle al Sugo di Pesce con Rucola|dünne Bandnudeln mit einer Soße aus frischem Fisch mit Rucola|17.90|A,D,E
+@16|Tortellini|Tortellini
+218|Tortellini al Madera|Tortellini mit Fleischfüllung und einer Rucola-Fleisch-Madeirasoße|16.90|A,D
+219|Tortellini Gorgonzola Gratinati|Tortellini mit Fleischfüllung und Gorgonzola überbacken|16.90|A,B,D
+220|Tortellini Panna e Prosciutto|Tortellini mit Fleischfüllung in Schinken-Sahne-Soße|15.90|A,B,D,4
+@17|Carni di Maiale|Schweinefleisch|Seniorenteller möglich!
+330|Cotoletta Viennese|Schnitzel Wiener Art, paniert, mit Beilagen|15.90|A,D
+331|Scaloppina ai Porcini natur|Schweineschnitzel mit Steinpilzen, Beilagen|20.90|
+332|Scaloppina Limone natur|Schweineschnitzel in Zitronensoße, Beilagen|17.90|
+333|Scaloppina al Vino Bianco natur|Schweineschnitzel in Weißweinsoße, Beilagen|17.90|
+334|Saltimbocca alla Romana natur|Schweineschnitzel, Salbei, Parmaschinken in Weißwein-Salbei-Soße, Beilagen|20.90|4
+335|Lombata di Suino alla Romana con Fagioli Rossi natur|Schweinekotelett nach römischer Art mit roten Bohnen und Kartoffeln|19.90|
+337|Medaglioni di Suino al Funghetto|Schweinemedaillons mit frischen Pilzen, Beilagen|19.90|
+@18|Spaghetti|Spaghetti
+201|Spaghetti Aglio Olio|Spaghetti mit Knoblauch, Öl, Chili und Cherrytomaten|9.90|A,D
+202|Spaghetti Napoli|Classische Spaghetti mit Tomatensoße|10.90|A,D
+203|Spaghetti Bologna|Spaghetti mit Hackfleischsoße|12.90|A,D
+204|Spaghetti Carbonara Italiana|das Original wie in Italien; Spaghetti mit geröstetem Speck, mit Wein abgelöscht, Eigelb und Parmesan|13.90|A,D,4
+205|Spaghetti Carbonara Tedesca|die in Deutschland beliebte Version mit Sahne; Spaghetti mit Speck, Ei und Sahne|13.90|A,B,D,4
+206|Spaghetti Amatriciana|Spaghetti mit Zwiebeln, Speck, Weißwein, Chili und Tomatensoße|14.90|A,D,4
+207|Spaghetti Puttanesca|Spaghetti mit Knoblauch, Sardellen, Kapern, Oliven in etwas scharfer Tomatensoße|14.90|A,D,E
+208|Spaghetti Scoglio|Spaghetti mit Meeresfrüchten, Cherrytomaten in Weißwein|17.90|A,C,D,E
+209|Spaghetti Frutti di Mare|Spaghetti mit Meeresfrüchten in Tomatensoße|17.90|A,C,D,E
+@18|Penne|Penne
+210|Penne Arrabbiata|Penne mit Knoblauch, Chili, Olivenöl, Tomatensoße|12.90|A,D
+211|Penne Gratinate|Penne mit Schinken, Erbsen, Champignons in Bechamelsoße mit Käse überbacken|14.90|A,B,D,4
+@19|Nigiri|Nigiri|2 Stück mit zweierlei japanischer Cocktailsoße
+142|Abujaki Tuna|Thunfisch flambiert|6.90|
+143|Spicy Tuna|gehackter Thunfisch, leicht scharf|6.50|
+144|Spicy Salmon|gehackter Lachs, leicht scharf|6.50|
+@19|Crunchy Roll|Crunchy Roll|6 Stück mit zweierlei japanischer Cocktailsoße
+145|Crunchy Salmon|Lachs/Avocado/Shinko/Schmelzkäse/Surimi|13.90|
+146|Crunchy Tuna|Thunfisch/Avocado/Shinko/Schmelzkäse/Surimi|14.90|
+147|Crunchy Ebi|Garnelen/Avocado/Shinko/Schmelzkäse/Surimi|14.50|
+148|Crunchy Beef|Rinderfilet/Avocado/Shinko/Schmelzkäse/Surimi|15.90|
+149|Crunchy Veggie Roll|Gurke/Avocado/Mango/Shinko/Schmelzkäse|11.90|
+150|Crunchy Chicken Roll|gegrillte Hähnchenbrust/Schmelzkäse|14.90|
+@20|Carni di Manzo e Vitello|Kalb & Rind
+301|Entrecote alla Griglia natur|für 1 Person; Lendensteak vom Rind mit Kräuterbutter und Beilagen, 250 g – 300 g|28.90|B
+303|Paillardes alla Griglia natur|für 1 Person; Schnitzel vom Kalb, gegrillt mit Beilagen|22.90|
+304|Cotoletta Viennese|für 1 Person; echtes Wiener Schnitzel vom Kalb, paniert, mit Beilagen|21.90|A,D
+305|Scaloppina ai Porcini natur|für 1 Person; Kalbsschnitzel mit Steinpilzen, Beilagen|23.90|
+306|Scaloppina Limone natur|für 1 Person; Kalbsschnitzel in Zitronensoße, Beilagen|22.90|
+307|Scaloppina al Vino Bianco natur|für 1 Person; Kalbsschnitzel in Weißweinsoße, Beilagen|22.90|
+308|Saltimbocca alla Romana natur|für 1 Person; Kalbsschnitzel, Salbei, Parmaschinken in Weißwein-Salbeisoße, Beilagen|24.90|4
+309|Cotoletta Bologna|für 1 Person; Kalbshüfte mit Schinken und Käse überbacken, Beilagen|24.90|B,4
+@21|Antipasti|Vorspeisen
+101|Antipasto Vegetariano|Vegetarische Vorspeise mit Zucchini, Aubergine, Paprika, Radicchio|12.90|
+102|Carpaccio di Manzo in Salsa di Limone|Rinder Carpaccio in Limonensaft mit Parmesanflocken|14.90|
+103|Carpaccio di Salmone su Rucola|Lachs Carpaccio auf Rucola|14.90|E
+104|Mini Frühlingsrolle|8 Stück, mit süßsaurer Soße|5.90|
+105|Frühlingsrolle, vietnamesischer Art|2 Stück, mit süßsaurer Soße|6.90|
+106|Yakiton|Hähnchenspieße gegrillt, 2 Stück, mit japanischer Soße|5.90|
+@21|Zuppe|Suppen
+115|Minestrone Vegetariano|hausgemachte Gemüsesuppe aus verschiedenen Gemüsesorten im eigenen Sud zubereitet|6.90|
+116|Crema di Pomodori|Hausgemachte Tomatencremesuppe mit Cognac und Sahne verfeinert|6.90|B
+117|Tortellini in Brodo|mit Fleisch gefüllte Tortellini in klarer Brühe|6.90|
+118|Crema di Zucchini|Hausgemachte Zucchinicremesuppe mit Parmesan|6.90|B
+119|Stracciatella alla Romana|Eiersuppe, geschlagen, mit Parmesan|6.90|B,D
+@22|Insalate|Salate
+501|Insalata Caprese|Salat aus Tomaten, Mozzarella und frischem Basilikum|9.90|B
+502|Insalata Pomodori e Tonno|Salat aus Tomaten, Thunfisch und Zwiebeln|11.90|E
+503|Insalata Pomodori e Cipolla|Salat aus Tomaten und Zwiebeln|7.90|
+505|Insalata Mista|gemischter Salat|groß:8.90;klein:5.50|
+506|Insalata di Cetrioli|Gurkensalat mit Joghurt-Dressing|7.90|B
+507|Insalata Nizzarda|gemischter Salat mit Thunfisch, Käse, Schinken, Ei, Zwiebeln|12.90|B,D,E,4
+508|Insalata della Casa|Gemischter Salat mit Mozzarella, Oliven, Peperoni, Artischocken, Sardellen|12.90|B,E
+510|Insalata Rucola|Rucola-Salat, Cherrytomaten, Parmesanflocken|10.90|B
+@22|Pizzapane/Pizzabrot|Pizzabrot|Extra Auflagen werden gesondert berechnet, bitte sprechen Sie mit unserem Servicepersonal.
+721|Pizzapane Bianca|weißes Pizzabrot|6.50|A,B,D
+722|Pizzapane Aglio, Olio, Pomodore|Pizzabrot mit Knoblauch, Öl, Tomatensoße|6.50|A,B,D
+723|Focaccina con Aglio, Olio, Rosmarino, Oregano|frisch gebackenes, dickes italienisches Fladenbrot mit Knoblauch, Olivenöl, Rosmarin, Oregano und Salzkristallen|6.50|A,B,D
+724|Bruschetta|4 Stück gegrilltes mit Tomatenstückchen und Kräutern belegtes Brot|6.50|A,B,D
+@23|Bevande Calde|Heiße Getränke
+9990|Espresso, doppelt|italienische Kaffee-Spezialität, groß|?|10
+990|Espresso|italienische Kaffee-Spezialität|?|10
+991|Cappuccino|italienische Kaffee-Spezialität mit geschäumter Milch|?|B,10
+992|Cappuccino|italienische Kaffee-Spezialität mit Sahne|?|B,10
+993|Caffe Corretto|Espresso mit einem Schuß Grappa|?|10
+994|Cioccolata Calda|heiße Schokolade|?|B
+995|Te|Tee nach Wahl|?|
+996|Caffe Tedesco|Kaffee nach deutscher Art|?|10
+997|Grog|heißes Getränk aus Wasser, Zucker und Rum|?|
+998|Vino Caldo|Glühwein|?|
+999|Latte Macchiato|italienische Kaffee-Spezialität mit Milch|?|B,10
+@24|Sushi Menü|Sushi-Menüs|Ab 3 Personen empfehlen wir unser Überraschungsmenü unseres Sushimeisters. Bitte fragen Sie unseren Service.
+161|Veggie|1 Person; 2 Stück Nigiri + 6 Stück Maki + 8 Stück Inside Out Roll|19.90|
+162|Sake Deluxe|Lachs, 1 Person; 2 Stück Sake Nigiri + 6 Stück Sake Maki + 8 Stück Sake Roll + 3 Stück Sake Sashimi|24.90|
+163|Tuna Deluxe|Thunfisch, 1 Person; 2 Stück Maguro Nigiri + 6 Stück Tekka Maki + 8 Stück Tuna Roll + 3 Stück Tuna Sashimi|26.90|
+164|Chicken Deluxe|Hähnchenbrust, 1 Person; 2 Stück gegrillte Hähnchenbrust + 1 Stück Crunchy Chicken Roll|21.90|
+165|La Mela d’oro Premium 1|1 Person; 8 Stück Special Roll + 4 Stück Nigiri Mix|20.90|
+166|La Mela d’oro Premium 2|1 Person; 6 Stück Maki Mix + 3 Stück Nigiri Mix + 8 Stück Special Roll|25.90|
+167|La Mela d’oro Imperial|1 Person; 2 Stück Nigiri + 2 Stück Sashimi + 8 Stück Special Roll + 6 Stück Mini Baked Rolls|27.90|
+168|Bento Mix|2 Personen; 6 Stück Maki Mix + 8 Stück Inside Out Roll + 6 Stück Nigiri Mix + 6 Stück Futo Maki + 6 Stück Mini Baked Rolls|47.90|
+169|La Mela d’oro Special|2 Personen; 6 Stück Maki + 4 Stück Nigiri + 8 Stück Special Roll + Sashimi Mix + 6 Stück Crunchy Roll + 6 Stück Futo Maki|57.90|
+@24|Japanische Küche|Japanische Küche|Alle mit Käse überbacken, in dunkler japanischer Soße, dazu Reis.
+190|Rinderfilet, natur||31.90|
+191|Hähnchenbrust, natur||19.90|
+192|Schweinefilet, natur||23.90|
+@25|Birra alla Spina|Bier vom Fass
+950|Köstritzer Pils||0,5 l:4.50|L
+951|Köstritzer Pils||0,25 l:2.90|L
+953|Köstritzer Schwarzbier||0,3 l:3.30;0,5 l:4.80|L
+955|Köstritzer Kellerbier||0,25 l:3.30;0,5 l:4.80|L
+@25|Birra Speziale|Spezial-Bier
+957|Erdinger Hefe-Weißbier, hell|ungefiltertes, obergäriges, helles mit Weizen gebrautes Bier|0,5 l:4.60|A
+958|Erdinger Hefe-Weißbier, dunkel|ungefiltertes, obergäriges, dunkles mit Weizen gebrautes Bier|0,5 l:4.60|A
+960|Auto Fahrer – Drink|alkoholfreies Bier|0,5 l:4.60|L
+961|Auto Fahrer – Drink|alkoholfreies Weißbier|0,5 l:4.60|A
+962|Radler|Mixgetränk aus hellem Bier und Zitronenlimonade|0,25 l:2.90|L
+963|Radler|Mixgetränk aus hellem Bier und Zitronenlimonade|0,5 l:4.50|L
