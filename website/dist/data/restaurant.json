@@ -1,0 +1,118 @@
+{
+  "name": "La Mela d’oro",
+  "language": "de",
+  "address": {
+    "streetAddress": "Dietrich-Bonhoeffer-Straße 10a",
+    "postalCode": "06712",
+    "addressLocality": "Zeitz",
+    "addressRegion": "Sachsen-Anhalt",
+    "addressCountry": "DE"
+  },
+  "phone": "+49 3441 2590861",
+  "phoneHref": "tel:+4934412590861",
+  "mapsUrl": "https://maps.app.goo.gl/2YcBp9PybKwvrkx46",
+  "email": null,
+  "socialLinks": [],
+  "orderingUrl": null,
+  "bookingUrl": null,
+  "whatsapp": null,
+  "openingHours": [
+    {
+      "day": "Montag",
+      "dayOfWeek": "Monday",
+      "periods": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "day": "Dienstag",
+      "dayOfWeek": "Tuesday",
+      "periods": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "day": "Mittwoch",
+      "dayOfWeek": "Wednesday",
+      "periods": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "day": "Donnerstag",
+      "dayOfWeek": "Thursday",
+      "periods": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "day": "Freitag",
+      "dayOfWeek": "Friday",
+      "periods": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "day": "Samstag",
+      "dayOfWeek": "Saturday",
+      "periods": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "day": "Sonntag",
+      "dayOfWeek": "Sunday",
+      "periods": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "22:30"
+        ]
+      ]
+    }
+  ],
+  "openingHoursStatus": "verified",
+  "delivery": null,
+  "pickup": null,
+  "servesCuisine": [
+    "Italienisch",
+    "Mediterran",
+    "Sushi"
+  ],
+  "clientNotes": [
+    "Website auf Deutsch",
+    "Öffnungszeiten auf Google Maps prüfen"
+  ],
+  "source": "Tài liệu không có tiêu đề.docx; supplied menu photos",
+  "openingHoursSource": "https://maps.app.goo.gl/2YcBp9PybKwvrkx46",
+  "openingHoursVerifiedAt": "2026-10-06"
+}

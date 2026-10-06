@@ -1,0 +1,5343 @@
+{
+  "currency": "EUR",
+  "language": "de",
+  "source": "25 provided menu photographs; manually transcribed",
+  "notes": [
+    "Allergen- und Zusatzstoffcodes sind aus der Originalkarte übernommen. Die zugehörige Legende wurde nicht mitgeliefert. Bitte fragen Sie bei Allergien im Restaurant nach."
+  ],
+  "categories": [
+    {
+      "id": "pizze",
+      "category": "Pizze",
+      "label": "Pizza",
+      "note": "",
+      "items": [
+        {
+          "id": "pizze-701",
+          "number": "701",
+          "name": "Margherita",
+          "description": "Pizza mit Tomatensoße, Mozzarella, Oregano",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 990
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-702",
+          "number": "702",
+          "name": "Salami",
+          "description": "Pizza mit Tomatensoße, Käse, Salami",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4",
+            "8"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-703",
+          "number": "703",
+          "name": "Prosciutto",
+          "description": "Pizza mit Tomatensoße, Käse, Schinken",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-704",
+          "number": "704",
+          "name": "Napolitana",
+          "description": "Pizza mit Tomatensoße, Käse, Sardellen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-705",
+          "number": "705",
+          "name": "Funghi",
+          "description": "Pizza mit Tomatensoße, Käse, Champignons",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-706",
+          "number": "706",
+          "name": "Romana",
+          "description": "Pizza mit Tomatensoße, Käse, Speck, Zwiebeln",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-707",
+          "number": "707",
+          "name": "Regina",
+          "description": "Pizza mit Tomatensoße, Käse, Schinken, Champignons",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-708",
+          "number": "708",
+          "name": "Contadina",
+          "description": "Pizza mit Tomatensoße, Käse, Gorgonzola, scharfer Mini-Salami",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4",
+            "8"
+          ],
+          "tags": [
+            "scharf"
+          ],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-709",
+          "number": "709",
+          "name": "Quattro Stagioni – Vier Jahreszeiten",
+          "description": "Pizza mit Tomatensoße, Käse, Schinken, Pilzen, Pepperoni, Artischocken, Oliven",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1690
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-710",
+          "number": "710",
+          "name": "Tonno e Cipolla",
+          "description": "Pizza mit Tomatensoße, Käse, Thunfisch, Zwiebeln",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-711",
+          "number": "711",
+          "name": "Hawai",
+          "description": "Pizza mit Tomatensoße, Käse, Ananas, Schinken",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-712",
+          "number": "712",
+          "name": "Capricciosa",
+          "description": "Pizza mit Tomatensoße, Pilzen, Salami, Paprika, Ei, Oliven",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4",
+            "8"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-713",
+          "number": "713",
+          "name": "Calzone",
+          "description": "Pizza gefüllt: Tomatensoße, Käse, Schinken, Salami, Knoblauch, Champignons, Ei (auf Wunsch)",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4",
+            "8"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-714",
+          "number": "714",
+          "name": "Quattro Formagi – vier Käsesorten",
+          "description": "Pizza mit Tomatensoße und vier Käsesorten",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "0361ecbe1297c25f707cba1fae1f2ae442bee036.jpg",
+          "sourcePage": 1,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-715",
+          "number": "715",
+          "name": "Mare e Monti",
+          "description": "Pizza mit Tomatensoße, Käse, Shrimps, Steinpilze, Rucola",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1690
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-716",
+          "number": "716",
+          "name": "Delisiosa",
+          "description": "Pizza mit Tomatensoße, Käse, Parmaschinken, Rucola, Parmesanflöckchen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1890
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        },
+        {
+          "id": "pizze-717",
+          "number": "717",
+          "name": "Scampi",
+          "description": "Pizza mit Tomatensoße, Garnelen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2190
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "antipasti",
+      "category": "Antipasti",
+      "label": "Vorspeisen",
+      "note": "",
+      "items": [
+        {
+          "id": "antipasti-101",
+          "number": "101",
+          "name": "Antipasto Vegetariano",
+          "description": "Vegetarische Vorspeise mit Zucchini, Aubergine, Paprika, Radicchio",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "vegetarisch"
+          ],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "antipasti-102",
+          "number": "102",
+          "name": "Carpaccio di Manzo in Salsa di Limone",
+          "description": "Rinder Carpaccio in Limonensaft mit Parmesanflocken",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "antipasti-103",
+          "number": "103",
+          "name": "Carpaccio di Salmone su Rucola",
+          "description": "Lachs Carpaccio auf Rucola",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "antipasti-104",
+          "number": "104",
+          "name": "Mini Frühlingsrolle",
+          "description": "8 Stück, mit süßsaurer Soße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "antipasti-105",
+          "number": "105",
+          "name": "Frühlingsrolle, vietnamesischer Art",
+          "description": "2 Stück, mit süßsaurer Soße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "antipasti-106",
+          "number": "106",
+          "name": "Yakiton",
+          "description": "Hähnchenspieße gegrillt, 2 Stück, mit japanischer Soße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "zuppe",
+      "category": "Zuppe",
+      "label": "Suppen",
+      "note": "",
+      "items": [
+        {
+          "id": "zuppe-115",
+          "number": "115",
+          "name": "Minestrone Vegetariano",
+          "description": "hausgemachte Gemüsesuppe aus verschiedenen Gemüsesorten im eigenen Sud zubereitet",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "vegetarisch"
+          ],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "zuppe-116",
+          "number": "116",
+          "name": "Crema di Pomodori",
+          "description": "Hausgemachte Tomatencremesuppe mit Cognac und Sahne verfeinert",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "zuppe-117",
+          "number": "117",
+          "name": "Tortellini in Brodo",
+          "description": "mit Fleisch gefüllte Tortellini in klarer Brühe",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "zuppe-118",
+          "number": "118",
+          "name": "Crema di Zucchini",
+          "description": "Hausgemachte Zucchinicremesuppe mit Parmesan",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        },
+        {
+          "id": "zuppe-119",
+          "number": "119",
+          "name": "Stracciatella alla Romana",
+          "description": "Eiersuppe, geschlagen, mit Parmesan",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "dc8c74db9253787a5685116d34a32b71c06a2799.jpg",
+          "sourcePage": 21,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "insalate",
+      "category": "Insalate",
+      "label": "Salate",
+      "note": "",
+      "items": [
+        {
+          "id": "insalate-501",
+          "number": "501",
+          "name": "Insalata Caprese",
+          "description": "Salat aus Tomaten, Mozzarella und frischem Basilikum",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 990
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "insalate-502",
+          "number": "502",
+          "name": "Insalata Pomodori e Tonno",
+          "description": "Salat aus Tomaten, Thunfisch und Zwiebeln",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "insalate-503",
+          "number": "503",
+          "name": "Insalata Pomodori e Cipolla",
+          "description": "Salat aus Tomaten und Zwiebeln",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "insalate-505",
+          "number": "505",
+          "name": "Insalata Mista",
+          "description": "gemischter Salat",
+          "variants": [
+            {
+              "label": "groß",
+              "priceCents": 890
+            },
+            {
+              "label": "klein",
+              "priceCents": 550
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "insalate-506",
+          "number": "506",
+          "name": "Insalata di Cetrioli",
+          "description": "Gurkensalat mit Joghurt-Dressing",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "insalate-507",
+          "number": "507",
+          "name": "Insalata Nizzarda",
+          "description": "gemischter Salat mit Thunfisch, Käse, Schinken, Ei, Zwiebeln",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "D",
+            "E",
+            "4"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "insalate-508",
+          "number": "508",
+          "name": "Insalata della Casa",
+          "description": "Gemischter Salat mit Mozzarella, Oliven, Peperoni, Artischocken, Sardellen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "E"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "insalate-510",
+          "number": "510",
+          "name": "Insalata Rucola",
+          "description": "Rucola-Salat, Cherrytomaten, Parmesanflocken",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1090
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "pizzapane-pizzabrot",
+      "category": "Pizzapane/Pizzabrot",
+      "label": "Pizzabrot",
+      "note": "Extra Auflagen werden gesondert berechnet, bitte sprechen Sie mit unserem Servicepersonal.",
+      "items": [
+        {
+          "id": "pizzapane-pizzabrot-721",
+          "number": "721",
+          "name": "Pizzapane Bianca",
+          "description": "weißes Pizzabrot",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "pizzapane-pizzabrot-722",
+          "number": "722",
+          "name": "Pizzapane Aglio, Olio, Pomodore",
+          "description": "Pizzabrot mit Knoblauch, Öl, Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "pizzapane-pizzabrot-723",
+          "number": "723",
+          "name": "Focaccina con Aglio, Olio, Rosmarino, Oregano",
+          "description": "frisch gebackenes, dickes italienisches Fladenbrot mit Knoblauch, Olivenöl, Rosmarin, Oregano und Salzkristallen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        },
+        {
+          "id": "pizzapane-pizzabrot-724",
+          "number": "724",
+          "name": "Bruschetta",
+          "description": "4 Stück gegrilltes mit Tomatenstückchen und Kräutern belegtes Brot",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "dd318ad24a8f85bcf2072bd1b43684f104879e5b.jpg",
+          "sourcePage": 22,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "spaghetti",
+      "category": "Spaghetti",
+      "label": "Spaghetti",
+      "note": "",
+      "items": [
+        {
+          "id": "spaghetti-201",
+          "number": "201",
+          "name": "Spaghetti Aglio Olio",
+          "description": "Spaghetti mit Knoblauch, Öl, Chili und Cherrytomaten",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 990
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-202",
+          "number": "202",
+          "name": "Spaghetti Napoli",
+          "description": "Classische Spaghetti mit Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1090
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-203",
+          "number": "203",
+          "name": "Spaghetti Bologna",
+          "description": "Spaghetti mit Hackfleischsoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-204",
+          "number": "204",
+          "name": "Spaghetti Carbonara Italiana",
+          "description": "das Original wie in Italien; Spaghetti mit geröstetem Speck, mit Wein abgelöscht, Eigelb und Parmesan",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-205",
+          "number": "205",
+          "name": "Spaghetti Carbonara Tedesca",
+          "description": "die in Deutschland beliebte Version mit Sahne; Spaghetti mit Speck, Ei und Sahne",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-206",
+          "number": "206",
+          "name": "Spaghetti Amatriciana",
+          "description": "Spaghetti mit Zwiebeln, Speck, Weißwein, Chili und Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-207",
+          "number": "207",
+          "name": "Spaghetti Puttanesca",
+          "description": "Spaghetti mit Knoblauch, Sardellen, Kapern, Oliven in etwas scharfer Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D",
+            "E"
+          ],
+          "tags": [
+            "scharf"
+          ],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-208",
+          "number": "208",
+          "name": "Spaghetti Scoglio",
+          "description": "Spaghetti mit Meeresfrüchten, Cherrytomaten in Weißwein",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1790
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "spaghetti-209",
+          "number": "209",
+          "name": "Spaghetti Frutti di Mare",
+          "description": "Spaghetti mit Meeresfrüchten in Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1790
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "penne",
+      "category": "Penne",
+      "label": "Penne",
+      "note": "",
+      "items": [
+        {
+          "id": "penne-210",
+          "number": "210",
+          "name": "Penne Arrabbiata",
+          "description": "Penne mit Knoblauch, Chili, Olivenöl, Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        },
+        {
+          "id": "penne-211",
+          "number": "211",
+          "name": "Penne Gratinate",
+          "description": "Penne mit Schinken, Erbsen, Champignons in Bechamelsoße mit Käse überbacken",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "b9c18acf013341f246fccb5d8cd2562bfe738fb0.jpg",
+          "sourcePage": 18,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "rigatoni",
+      "category": "Rigatoni",
+      "label": "Rigatoni",
+      "note": "",
+      "items": [
+        {
+          "id": "rigatoni-212",
+          "number": "212",
+          "name": "Rigatoni Quattro Formaggi",
+          "description": "Rigatoni mit vier Käsesorten",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        },
+        {
+          "id": "rigatoni-213",
+          "number": "213",
+          "name": "Rigatoni con Salsiccia Piccante",
+          "description": "Rigatoni mit Kräuter-Pesto und pikanter italienischer Minisalami",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D",
+            "4",
+            "8"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        },
+        {
+          "id": "rigatoni-214",
+          "number": "214",
+          "name": "Rigatoni della Casa",
+          "description": "Rigatoni mit Speck, Rucola und Cherrytomaten",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        },
+        {
+          "id": "rigatoni-215",
+          "number": "215",
+          "name": "Rigatoni Vegetariani",
+          "description": "Rigatoni mit Gemüsestreifen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [
+            "vegetarisch"
+          ],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "tagliatelle",
+      "category": "Tagliatelle",
+      "label": "Tagliatelle",
+      "note": "",
+      "items": [
+        {
+          "id": "tagliatelle-216",
+          "number": "216",
+          "name": "Tagliatelle Emiliana",
+          "description": "Bandnudeln mit Schinken, Champignons, Erbsen in Sahnesoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        },
+        {
+          "id": "tagliatelle-217",
+          "number": "217",
+          "name": "Tagliatelle Salmone",
+          "description": "Bandnudeln mit frischem Lachs, Wodka und Sahne, Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1790
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D",
+            "E"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        },
+        {
+          "id": "tagliatelle-451",
+          "number": "451",
+          "name": "Tagliatelle al Sugo di Pesce con Rucola",
+          "description": "dünne Bandnudeln mit einer Soße aus frischem Fisch mit Rucola",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1790
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D",
+            "E"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "tortellini",
+      "category": "Tortellini",
+      "label": "Tortellini",
+      "note": "",
+      "items": [
+        {
+          "id": "tortellini-218",
+          "number": "218",
+          "name": "Tortellini al Madera",
+          "description": "Tortellini mit Fleischfüllung und einer Rucola-Fleisch-Madeirasoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1690
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        },
+        {
+          "id": "tortellini-219",
+          "number": "219",
+          "name": "Tortellini Gorgonzola Gratinati",
+          "description": "Tortellini mit Fleischfüllung und Gorgonzola überbacken",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1690
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        },
+        {
+          "id": "tortellini-220",
+          "number": "220",
+          "name": "Tortellini Panna e Prosciutto",
+          "description": "Tortellini mit Fleischfüllung in Schinken-Sahne-Soße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D",
+            "4"
+          ],
+          "tags": [],
+          "source": "b55496ae74dcc6b2c43ddf8f4b02c584ffea051d.jpg",
+          "sourcePage": 16,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "canelloni",
+      "category": "Canelloni",
+      "label": "Canelloni",
+      "note": "",
+      "items": [
+        {
+          "id": "canelloni-221",
+          "number": "221",
+          "name": "Canelloni Vegetariani",
+          "description": "Canelloni mit Gemüsefüllung",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [
+            "vegetarisch"
+          ],
+          "source": "3ee29e91d003a0810efaf1804e6b8a2aa20bb1ce.jpg",
+          "sourcePage": 4,
+          "needsReview": false
+        },
+        {
+          "id": "canelloni-222",
+          "number": "222",
+          "name": "Canelloni di Carne",
+          "description": "Canelloni mit Fleischfüllung",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "3ee29e91d003a0810efaf1804e6b8a2aa20bb1ce.jpg",
+          "sourcePage": 4,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "lasagne",
+      "category": "Lasagne",
+      "label": "Lasagne",
+      "note": "",
+      "items": [
+        {
+          "id": "lasagne-223",
+          "number": "223",
+          "name": "Lasagne al Forno",
+          "description": "Lasagne, im Ofen überbacken",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "3ee29e91d003a0810efaf1804e6b8a2aa20bb1ce.jpg",
+          "sourcePage": 4,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "primi-piatti-di-riso",
+      "category": "Primi Piatti di Riso",
+      "label": "Reisgerichte",
+      "note": "",
+      "items": [
+        {
+          "id": "primi-piatti-di-riso-230",
+          "number": "230",
+          "name": "Risotto Frutti di Mare",
+          "description": "Reisgericht mit Meeresfrüchten und Cherrytomaten",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1790
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "C",
+            "E"
+          ],
+          "tags": [],
+          "source": "3ee29e91d003a0810efaf1804e6b8a2aa20bb1ce.jpg",
+          "sourcePage": 4,
+          "needsReview": false
+        },
+        {
+          "id": "primi-piatti-di-riso-231",
+          "number": "231",
+          "name": "Risotto Aglio e Olio",
+          "description": "Reisgericht mit Knoblauch, Olivenöl, Cherrytomaten",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1690
+            }
+          ],
+          "allergenCodes": [
+            "A"
+          ],
+          "tags": [],
+          "source": "3ee29e91d003a0810efaf1804e6b8a2aa20bb1ce.jpg",
+          "sourcePage": 4,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "carni-di-maiale",
+      "category": "Carni di Maiale",
+      "label": "Schweinefleisch",
+      "note": "Seniorenteller möglich!",
+      "items": [
+        {
+          "id": "carni-di-maiale-330",
+          "number": "330",
+          "name": "Cotoletta Viennese",
+          "description": "Schnitzel Wiener Art, paniert, mit Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "b77042afc3cdb676f9d5de85daaf1d7a9fc0f8a0.jpg",
+          "sourcePage": 17,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-maiale-331",
+          "number": "331",
+          "name": "Scaloppina ai Porcini natur",
+          "description": "Schweineschnitzel mit Steinpilzen, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2090
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b77042afc3cdb676f9d5de85daaf1d7a9fc0f8a0.jpg",
+          "sourcePage": 17,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-maiale-332",
+          "number": "332",
+          "name": "Scaloppina Limone natur",
+          "description": "Schweineschnitzel in Zitronensoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b77042afc3cdb676f9d5de85daaf1d7a9fc0f8a0.jpg",
+          "sourcePage": 17,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-maiale-333",
+          "number": "333",
+          "name": "Scaloppina al Vino Bianco natur",
+          "description": "Schweineschnitzel in Weißweinsoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b77042afc3cdb676f9d5de85daaf1d7a9fc0f8a0.jpg",
+          "sourcePage": 17,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-maiale-334",
+          "number": "334",
+          "name": "Saltimbocca alla Romana natur",
+          "description": "Schweineschnitzel, Salbei, Parmaschinken in Weißwein-Salbei-Soße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2090
+            }
+          ],
+          "allergenCodes": [
+            "4"
+          ],
+          "tags": [],
+          "source": "b77042afc3cdb676f9d5de85daaf1d7a9fc0f8a0.jpg",
+          "sourcePage": 17,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-maiale-335",
+          "number": "335",
+          "name": "Lombata di Suino alla Romana con Fagioli Rossi natur",
+          "description": "Schweinekotelett nach römischer Art mit roten Bohnen und Kartoffeln",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b77042afc3cdb676f9d5de85daaf1d7a9fc0f8a0.jpg",
+          "sourcePage": 17,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-maiale-337",
+          "number": "337",
+          "name": "Medaglioni di Suino al Funghetto",
+          "description": "Schweinemedaillons mit frischen Pilzen, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b77042afc3cdb676f9d5de85daaf1d7a9fc0f8a0.jpg",
+          "sourcePage": 17,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "carni-di-manzo-e-vitello",
+      "category": "Carni di Manzo e Vitello",
+      "label": "Kalb & Rind",
+      "note": "",
+      "items": [
+        {
+          "id": "carni-di-manzo-e-vitello-301",
+          "number": "301",
+          "name": "Entrecote alla Griglia natur",
+          "description": "für 1 Person; Lendensteak vom Rind mit Kräuterbutter und Beilagen, 250 g – 300 g",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2890
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-manzo-e-vitello-303",
+          "number": "303",
+          "name": "Paillardes alla Griglia natur",
+          "description": "für 1 Person; Schnitzel vom Kalb, gegrillt mit Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-manzo-e-vitello-304",
+          "number": "304",
+          "name": "Cotoletta Viennese",
+          "description": "für 1 Person; echtes Wiener Schnitzel vom Kalb, paniert, mit Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2190
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-manzo-e-vitello-305",
+          "number": "305",
+          "name": "Scaloppina ai Porcini natur",
+          "description": "für 1 Person; Kalbsschnitzel mit Steinpilzen, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-manzo-e-vitello-306",
+          "number": "306",
+          "name": "Scaloppina Limone natur",
+          "description": "für 1 Person; Kalbsschnitzel in Zitronensoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-manzo-e-vitello-307",
+          "number": "307",
+          "name": "Scaloppina al Vino Bianco natur",
+          "description": "für 1 Person; Kalbsschnitzel in Weißweinsoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-manzo-e-vitello-308",
+          "number": "308",
+          "name": "Saltimbocca alla Romana natur",
+          "description": "für 1 Person; Kalbsschnitzel, Salbei, Parmaschinken in Weißwein-Salbeisoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2490
+            }
+          ],
+          "allergenCodes": [
+            "4"
+          ],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        },
+        {
+          "id": "carni-di-manzo-e-vitello-309",
+          "number": "309",
+          "name": "Cotoletta Bologna",
+          "description": "für 1 Person; Kalbshüfte mit Schinken und Käse überbacken, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2490
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "4"
+          ],
+          "tags": [],
+          "source": "ce46f1735a73db02fe50988b12e75e8d48068334.jpg",
+          "sourcePage": 20,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "pesce-di-mare",
+      "category": "Pesce di Mare",
+      "label": "Meeres-Fischgerichte",
+      "note": "",
+      "items": [
+        {
+          "id": "pesce-di-mare-401",
+          "number": "401",
+          "name": "Scampi alla Griglia",
+          "description": "Riesengarnelen vom Grill, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2890
+            }
+          ],
+          "allergenCodes": [
+            "C"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-402",
+          "number": "402",
+          "name": "Scampi al Cartoccio",
+          "description": "Riesengarnelen mit Shrimps, Champignons und Cherrytomaten, in Alufolie zubereitet, mit Salat",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2890
+            }
+          ],
+          "allergenCodes": [
+            "C"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-403",
+          "number": "403",
+          "name": "Scampi allo Spiedo",
+          "description": "für 1 Person; Riesengarnelen im Mantel aus Parmaschinken, Zwiebeln, Paprika, am Spieß gegrillt, Reis, mit Salat",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2890
+            }
+          ],
+          "allergenCodes": [
+            "C",
+            "4"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-404",
+          "number": "404",
+          "name": "Misto di Pesce alla Griglia",
+          "description": "für 1 Person; verschiedene Sorten Meeresfische vom Grill, Remouladensoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2790
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "C",
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-405",
+          "number": "405",
+          "name": "Calamari alla Griglia",
+          "description": "Tuben-Tintenfisch vom Grill, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2390
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-406",
+          "number": "406",
+          "name": "Salmone all Griglia",
+          "description": "Lachs vom Grill, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-407",
+          "number": "407",
+          "name": "Salmone al Pernod",
+          "description": "Lachs in einer Pernod-Soße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2290
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-408",
+          "number": "408",
+          "name": "Calamari Fritti",
+          "description": "Tuben-Tintenfisch, frittiert, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2390
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-409",
+          "number": "409",
+          "name": "Fritto Misto di Pesce",
+          "description": "für 1 Person; verschiedene Sorten Meeresfische, frittiert, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2790
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-410",
+          "number": "410",
+          "name": "Rombo alla Griglia",
+          "description": "Heilbutt vom Grill, Tartarsoße, Beilagen (ca. 250 g)",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2450
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-411",
+          "number": "411",
+          "name": "Orate alla Griglia",
+          "description": "Dorade vom Grill, Tartarsoße, Beilagen (ca. 500 g)",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2690
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-412",
+          "number": "412",
+          "name": "Thuna alla Griglia",
+          "description": "Thunfischsteak vom Grill, auf Rucola, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-415",
+          "number": "415",
+          "name": "Filetto di tilapia e 3 Scampi",
+          "description": "150 g Tilapia + 3 Scampi vom Grill, Tartarsoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2350
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "C",
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-416",
+          "number": "416",
+          "name": "Lucioperca",
+          "description": "300 g Zanderfilet vom Grill, Tartarsoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2390
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-di-mare-417",
+          "number": "417",
+          "name": "Baramundi",
+          "description": "250 g Baramundi vom Grill, Tartarsoße, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2490
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "E"
+          ],
+          "tags": [],
+          "source": "5a1d41d5dd88bd14b74fd826fef177301ddf9dea.jpg",
+          "sourcePage": 9,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "pesce-dacqua-dolce",
+      "category": "Pesce d’Acqua dolce",
+      "label": "Süßwasser-Fischgerichte",
+      "note": "",
+      "items": [
+        {
+          "id": "pesce-dacqua-dolce-450",
+          "number": "450",
+          "name": "Fischfilet auf Salat mit Limonensoße",
+          "description": "mit Forelle",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "24b94247bd77582ab87af2ff5cd6c354ec44da77.jpg",
+          "sourcePage": 3,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-dacqua-dolce-452",
+          "number": "452",
+          "name": "Trota alla Griglia",
+          "description": "Forelle vom Grill (ca. 500 g) mit Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "24b94247bd77582ab87af2ff5cd6c354ec44da77.jpg",
+          "sourcePage": 3,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-dacqua-dolce-453",
+          "number": "453",
+          "name": "Filetto di Trota su verdure",
+          "description": "Forellenfilet mit Gemüsestreifen, Beilagen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "24b94247bd77582ab87af2ff5cd6c354ec44da77.jpg",
+          "sourcePage": 3,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-dacqua-dolce-454",
+          "number": "454",
+          "name": "Trota in Burro con Salvia",
+          "description": "Forelle (ca. 500 g) in Butter und Salbei-Soße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2090
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "E"
+          ],
+          "tags": [],
+          "source": "24b94247bd77582ab87af2ff5cd6c354ec44da77.jpg",
+          "sourcePage": 3,
+          "needsReview": false
+        },
+        {
+          "id": "pesce-dacqua-dolce-455",
+          "number": "455",
+          "name": "Trota ai Cartoccio",
+          "description": "Forelle (ca. 500 g) in Alufolie zubereitet, mit Thymian, Rosmarin und Kartoffeln",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2390
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "24b94247bd77582ab87af2ff5cd6c354ec44da77.jpg",
+          "sourcePage": 3,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "spezialita-per-bambini",
+      "category": "Spezialita per Bambini",
+      "label": "Für Kinder",
+      "note": "",
+      "items": [
+        {
+          "id": "spezialita-per-bambini-750",
+          "number": "750",
+          "name": "Spaghetti ai Burro oder Rigatoni",
+          "description": "Spaghetti mit Butter",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        },
+        {
+          "id": "spezialita-per-bambini-751",
+          "number": "751",
+          "name": "Spaghetti Bologna",
+          "description": "Spaghetti mit Hackfleischsoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        },
+        {
+          "id": "spezialita-per-bambini-752",
+          "number": "752",
+          "name": "Rigatoni oder Spaghetti Napoli",
+          "description": "Rigatoni mit Tomatensoße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 720
+            }
+          ],
+          "allergenCodes": [
+            "A",
+            "D"
+          ],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        },
+        {
+          "id": "spezialita-per-bambini-753",
+          "number": "753",
+          "name": "Cotoletta con Patadine",
+          "description": "Schweineschnitzel mit Pommes Frittes",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 890
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        },
+        {
+          "id": "spezialita-per-bambini-754",
+          "number": "754",
+          "name": "Filetto di Pesce Fritto",
+          "description": "Pangasius paniert und frittiert",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 890
+            }
+          ],
+          "allergenCodes": [
+            "E"
+          ],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "beilagen",
+      "category": "Beilagen",
+      "label": "Beilagen",
+      "note": "",
+      "items": [
+        {
+          "id": "beilagen-extra",
+          "number": "",
+          "name": "Kroketten / Pommes Frites / Bratkartoffeln",
+          "description": "Portion / extra",
+          "variants": [
+            {
+              "label": "Kroketten",
+              "priceCents": 450
+            },
+            {
+              "label": "Pommes Frites",
+              "priceCents": 450
+            },
+            {
+              "label": "Bratkartoffeln",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "52d1cad1aa3f66efdbbd94a66c344b8ef0fbaf73.jpg",
+          "sourcePage": 8,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "dolce",
+      "category": "Dolce",
+      "label": "Desserts",
+      "note": "",
+      "items": [
+        {
+          "id": "dolce-804",
+          "number": "804",
+          "name": "Tiramisu",
+          "description": "hausgemachte italienische Süßspeisen-Spezialität",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "dolce-805",
+          "number": "805",
+          "name": "Panna Cotta",
+          "description": "hausgemachte Sahnesüßspeise mit Vecchia Romagna",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "dolce-806",
+          "number": "806",
+          "name": "Zabaione",
+          "description": "hausgemachte Eier-Süßspeise mit Marsalla und Weißwein",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "dolce-816",
+          "number": "816",
+          "name": "Gebackene Banane oder Ananas",
+          "description": "mit Honig und Vanilleeis",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "gelati",
+      "category": "Gelati",
+      "label": "Eis",
+      "note": "",
+      "items": [
+        {
+          "id": "gelati-799",
+          "number": "799",
+          "name": "Nussknacker",
+          "description": "Schoko- und Vanilleeis mit Nüssen und Sahne",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "gelati-800",
+          "number": "800",
+          "name": "Tropica",
+          "description": "Vanilleeis mit Orangensaft",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "gelati-807",
+          "number": "807",
+          "name": "Vanilleeis mit heißen Himbeeren",
+          "description": "",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 890
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "gelati-808",
+          "number": "808",
+          "name": "Früchtebecher",
+          "description": "gemischtes Eis mit Früchten und Sahne",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "gelati-810",
+          "number": "810",
+          "name": "Schokoladeneis mit Eierlikör",
+          "description": "",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "gelati-811",
+          "number": "811",
+          "name": "Eisschokolade",
+          "description": "",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 590
+            }
+          ],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "gelati-812",
+          "number": "812",
+          "name": "Eiskaffee",
+          "description": "",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "10"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        },
+        {
+          "id": "gelati-813",
+          "number": "813",
+          "name": "Tartufo Nero",
+          "description": "getrüffeltes Eis mit Zabaione",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [
+            "B",
+            "D"
+          ],
+          "tags": [],
+          "source": "8cb8ff709382b7c59a0f3c5281a463d28e5bd1bc.jpg",
+          "sourcePage": 11,
+          "needsReview": false
+        }
+      ],
+      "group": "food"
+    },
+    {
+      "id": "sushi",
+      "category": "Sushi",
+      "label": "Maki",
+      "note": "",
+      "items": [
+        {
+          "id": "sushi-120",
+          "number": "120",
+          "name": "Sake Maki",
+          "description": "Lachs",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-121",
+          "number": "121",
+          "name": "Edo Maki",
+          "description": "Lachs/Avocado",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 620
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-122",
+          "number": "122",
+          "name": "Tekka Maki",
+          "description": "Thunfisch",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 640
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-123",
+          "number": "123",
+          "name": "Tekka Avocado Maki",
+          "description": "Thunfisch/Avocado",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 670
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-124",
+          "number": "124",
+          "name": "Spicy Tuna",
+          "description": "leicht scharfer Thunfisch, gehackt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "scharf"
+          ],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-125",
+          "number": "125",
+          "name": "Spicy Salmon",
+          "description": "leicht scharfer Lachs, gehackt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 670
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "scharf"
+          ],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-126",
+          "number": "126",
+          "name": "Ebi Maki",
+          "description": "Riesengarnele/Gurke",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 620
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-127",
+          "number": "127",
+          "name": "Avocado Maki",
+          "description": "Avocado",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 510
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-128",
+          "number": "128",
+          "name": "Kappa Maki",
+          "description": "Gurke",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 510
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-129",
+          "number": "129",
+          "name": "Tamago Maki",
+          "description": "Omelett",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 510
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-130",
+          "number": "130",
+          "name": "Futo Maki",
+          "description": "Thunfisch/Lachs/Avocado/Gurke/Shinko",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1090
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-131",
+          "number": "131",
+          "name": "Chicken Maki",
+          "description": "gegrillte Hähnchenbrust",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "b231d8b18ae1aefaf58dcdc7149dd08a8d047d06.jpg",
+          "sourcePage": 15,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "sashimi",
+      "category": "Sashimi",
+      "label": "Sashimi",
+      "note": "",
+      "items": [
+        {
+          "id": "sashimi-132",
+          "number": "132",
+          "name": "Sake Sashimi",
+          "description": "Lachs – 8 Stück",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "sashimi-133",
+          "number": "133",
+          "name": "Tuna Sashimi",
+          "description": "Thunfisch – 8 Stück",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1890
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "sashimi-134",
+          "number": "134",
+          "name": "Tuna-Salmon-Sashimi",
+          "description": "Thunfisch/Lachs – 8 Stück",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2090
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "sashimi-135",
+          "number": "135",
+          "name": "Sashimi Zeitz",
+          "description": "Lachs/Thunfisch/Garnelen – 9 Stück",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "nigiri",
+      "category": "Nigiri",
+      "label": "Nigiri",
+      "note": "2 Stück mit zweierlei japanischer Cocktailsoße",
+      "items": [
+        {
+          "id": "nigiri-136",
+          "number": "136",
+          "name": "Sake",
+          "description": "Lachs",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 550
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-137",
+          "number": "137",
+          "name": "Maguro",
+          "description": "Thunfisch",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-138",
+          "number": "138",
+          "name": "Avocado",
+          "description": "Avocado",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 550
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-139",
+          "number": "139",
+          "name": "Ebi",
+          "description": "Garnelen",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-140",
+          "number": "140",
+          "name": "Tamago",
+          "description": "gesüßtes Omelett",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 550
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-141",
+          "number": "141",
+          "name": "Abujaki Salmon",
+          "description": "Lachs flambiert",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "4010c205910f3e8caf4fc7ce72ca0dd3397515d7.jpg",
+          "sourcePage": 5,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-142",
+          "number": "142",
+          "name": "Abujaki Tuna",
+          "description": "Thunfisch flambiert",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-143",
+          "number": "143",
+          "name": "Spicy Tuna",
+          "description": "gehackter Thunfisch, leicht scharf",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "scharf"
+          ],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        },
+        {
+          "id": "nigiri-144",
+          "number": "144",
+          "name": "Spicy Salmon",
+          "description": "gehackter Lachs, leicht scharf",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "scharf"
+          ],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "inside-out-roll",
+      "category": "Inside Out Roll",
+      "label": "Inside Out Roll",
+      "note": "8 Stück, mit Avocado, Gurke, Schmelzkäse",
+      "items": [
+        {
+          "id": "inside-out-roll-151",
+          "number": "151",
+          "name": "Green Roll",
+          "description": "vegetarische Variation, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "vegetarisch"
+          ],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-152",
+          "number": "152",
+          "name": "Rucola Roll",
+          "description": "Rucola, Mango",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-153",
+          "number": "153",
+          "name": "Salmon Roll",
+          "description": "Lachs, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-154",
+          "number": "154",
+          "name": "Tuna Roll",
+          "description": "Thunfisch, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-155",
+          "number": "155",
+          "name": "Spicy Salmon Roll",
+          "description": "leicht scharfer Lachs, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1350
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "scharf"
+          ],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-156",
+          "number": "156",
+          "name": "Spicy Tuna Roll",
+          "description": "leicht scharfer Thunfisch, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "scharf"
+          ],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-157",
+          "number": "157",
+          "name": "Ebi Fried Roll",
+          "description": "Garnelen, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-158",
+          "number": "158",
+          "name": "Gyu Roll",
+          "description": "Rinderfilet, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        },
+        {
+          "id": "inside-out-roll-159",
+          "number": "159",
+          "name": "Chicken Roll",
+          "description": "gegrillte Hähnchenbrust, Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "8fa6e06ecd7e1e9ee414789804bb150f9be2bcf5.jpg",
+          "sourcePage": 12,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "special-roll",
+      "category": "Special Roll",
+      "label": "Special Roll",
+      "note": "8 Stück, mit Avocado, Gurke, Schmelzkäse",
+      "items": [
+        {
+          "id": "special-roll-171",
+          "number": "171",
+          "name": "Mimi Roll",
+          "description": "Mango + Shinko + Sesam + mit Avocado umwickelt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-172",
+          "number": "172",
+          "name": "Zeitz Roll",
+          "description": "gegrillte Chicken Yakitori + Mango + Sesam + mit Hähnchenbrust umwickelt & Unagi-Butter-Soße",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-173",
+          "number": "173",
+          "name": "Salmon Lover",
+          "description": "Lachs + Tobico + Sesam + mit Lachs umwickelt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-174",
+          "number": "174",
+          "name": "Tuna Lover",
+          "description": "Thunfisch + Tobico + Sesam + mit Thunfisch umwickelt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-175",
+          "number": "175",
+          "name": "Beef Queen Roll",
+          "description": "Rinderfilet + Tobico + mit Rind umwickelt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-176",
+          "number": "176",
+          "name": "Tuna Royal Roll",
+          "description": "Thunfisch + Tobico + Sesam + mit Avocado umwickelt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-177",
+          "number": "177",
+          "name": "Tila Roll",
+          "description": "panierte Rolle + Surimi + Schmelzkäse + in Tempuramehl",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-178",
+          "number": "178",
+          "name": "Tuti Roll",
+          "description": "Garnelen + Mango + Sesam",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-179",
+          "number": "179",
+          "name": "Salmon Tempura Roll",
+          "description": "Garnelen + Tempura + Sesam + Tobico + mit Lachs umwickelt",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        },
+        {
+          "id": "special-roll-180",
+          "number": "180",
+          "name": "Best Friend Roll",
+          "description": "Lachs + Thunfisch + Schmelzkäse + umwickelt mit flambiertem Lachs und Thunfisch",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "5195c8a4388b7d40294c2c7280ae4789c2d93ee5.jpg",
+          "sourcePage": 7,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "crunchy-roll",
+      "category": "Crunchy Roll",
+      "label": "Crunchy Roll",
+      "note": "6 Stück mit zweierlei japanischer Cocktailsoße",
+      "items": [
+        {
+          "id": "crunchy-roll-145",
+          "number": "145",
+          "name": "Crunchy Salmon",
+          "description": "Lachs/Avocado/Shinko/Schmelzkäse/Surimi",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        },
+        {
+          "id": "crunchy-roll-146",
+          "number": "146",
+          "name": "Crunchy Tuna",
+          "description": "Thunfisch/Avocado/Shinko/Schmelzkäse/Surimi",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        },
+        {
+          "id": "crunchy-roll-147",
+          "number": "147",
+          "name": "Crunchy Ebi",
+          "description": "Garnelen/Avocado/Shinko/Schmelzkäse/Surimi",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        },
+        {
+          "id": "crunchy-roll-148",
+          "number": "148",
+          "name": "Crunchy Beef",
+          "description": "Rinderfilet/Avocado/Shinko/Schmelzkäse/Surimi",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        },
+        {
+          "id": "crunchy-roll-149",
+          "number": "149",
+          "name": "Crunchy Veggie Roll",
+          "description": "Gurke/Avocado/Mango/Shinko/Schmelzkäse",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1190
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "vegetarisch"
+          ],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        },
+        {
+          "id": "crunchy-roll-150",
+          "number": "150",
+          "name": "Crunchy Chicken Roll",
+          "description": "gegrillte Hähnchenbrust/Schmelzkäse",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1490
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "c2c473c62cc2f04bfd8360a40af22bd90693992c.jpg",
+          "sourcePage": 19,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "sushi-menu",
+      "category": "Sushi Menü",
+      "label": "Sushi-Menüs",
+      "note": "Ab 3 Personen empfehlen wir unser Überraschungsmenü unseres Sushimeisters. Bitte fragen Sie unseren Service.",
+      "items": [
+        {
+          "id": "sushi-menu-161",
+          "number": "161",
+          "name": "Veggie",
+          "description": "1 Person; 2 Stück Nigiri + 6 Stück Maki + 8 Stück Inside Out Roll",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [
+            "vegetarisch"
+          ],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-162",
+          "number": "162",
+          "name": "Sake Deluxe",
+          "description": "Lachs, 1 Person; 2 Stück Sake Nigiri + 6 Stück Sake Maki + 8 Stück Sake Roll + 3 Stück Sake Sashimi",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2490
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-163",
+          "number": "163",
+          "name": "Tuna Deluxe",
+          "description": "Thunfisch, 1 Person; 2 Stück Maguro Nigiri + 6 Stück Tekka Maki + 8 Stück Tuna Roll + 3 Stück Tuna Sashimi",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-164",
+          "number": "164",
+          "name": "Chicken Deluxe",
+          "description": "Hähnchenbrust, 1 Person; 2 Stück gegrillte Hähnchenbrust + 1 Stück Crunchy Chicken Roll",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2190
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-165",
+          "number": "165",
+          "name": "La Mela d’oro Premium 1",
+          "description": "1 Person; 8 Stück Special Roll + 4 Stück Nigiri Mix",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2090
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-166",
+          "number": "166",
+          "name": "La Mela d’oro Premium 2",
+          "description": "1 Person; 6 Stück Maki Mix + 3 Stück Nigiri Mix + 8 Stück Special Roll",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2590
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-167",
+          "number": "167",
+          "name": "La Mela d’oro Imperial",
+          "description": "1 Person; 2 Stück Nigiri + 2 Stück Sashimi + 8 Stück Special Roll + 6 Stück Mini Baked Rolls",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-168",
+          "number": "168",
+          "name": "Bento Mix",
+          "description": "2 Personen; 6 Stück Maki Mix + 8 Stück Inside Out Roll + 6 Stück Nigiri Mix + 6 Stück Futo Maki + 6 Stück Mini Baked Rolls",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 4790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "sushi-menu-169",
+          "number": "169",
+          "name": "La Mela d’oro Special",
+          "description": "2 Personen; 6 Stück Maki + 4 Stück Nigiri + 8 Stück Special Roll + Sashimi Mix + 6 Stück Crunchy Roll + 6 Stück Futo Maki",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 5790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "japanische-kuche",
+      "category": "Japanische Küche",
+      "label": "Japanische Küche",
+      "note": "Alle mit Käse überbacken, in dunkler japanischer Soße, dazu Reis.",
+      "items": [
+        {
+          "id": "japanische-kuche-190",
+          "number": "190",
+          "name": "Rinderfilet, natur",
+          "description": "",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 3190
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "japanische-kuche-191",
+          "number": "191",
+          "name": "Hähnchenbrust, natur",
+          "description": "",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 1990
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        },
+        {
+          "id": "japanische-kuche-192",
+          "number": "192",
+          "name": "Schweinefilet, natur",
+          "description": "",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 2390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ecc723ef7c44d41c517c60c9380eff280336e5b5.jpg",
+          "sourcePage": 24,
+          "needsReview": false
+        }
+      ],
+      "group": "sushi"
+    },
+    {
+      "id": "bevande-analcolici",
+      "category": "Bevande Analcolici",
+      "label": "Alkoholfreie Getränke",
+      "note": "",
+      "items": [
+        {
+          "id": "bevande-analcolici-935",
+          "number": "935",
+          "name": "San Pelegrino",
+          "description": "italienisches Mineralwasser",
+          "variants": [
+            {
+              "label": "0,75 l",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-936",
+          "number": "936",
+          "name": "Mineralwasser",
+          "description": "einheimisch",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-937",
+          "number": "937",
+          "name": "Mineralwasser",
+          "description": "einheimisch",
+          "variants": [
+            {
+              "label": "0,4 l",
+              "priceCents": 350
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-938",
+          "number": "938",
+          "name": "Cola",
+          "description": "koffeinhaltige Limonade",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [
+            "8",
+            "10"
+          ],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-939",
+          "number": "939",
+          "name": "Cola",
+          "description": "koffeinhaltige Limonade",
+          "variants": [
+            {
+              "label": "0,4 l",
+              "priceCents": 410
+            }
+          ],
+          "allergenCodes": [
+            "8",
+            "10"
+          ],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-940",
+          "number": "940",
+          "name": "Fanta",
+          "description": "Orangenlimonade",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [
+            "8"
+          ],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-941",
+          "number": "941",
+          "name": "Fanta",
+          "description": "Orangenlimonade",
+          "variants": [
+            {
+              "label": "0,4 l",
+              "priceCents": 410
+            }
+          ],
+          "allergenCodes": [
+            "8"
+          ],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-942",
+          "number": "942",
+          "name": "Sprite",
+          "description": "Zitronenlimonade",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-943",
+          "number": "943",
+          "name": "Sprite",
+          "description": "Zitronenlimonade",
+          "variants": [
+            {
+              "label": "0,4 l",
+              "priceCents": 410
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-944",
+          "number": "944",
+          "name": "Spezi",
+          "description": "koffeinhaltige Limonade Cola/Orangenlimonade",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [
+            "8",
+            "10"
+          ],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-945",
+          "number": "945",
+          "name": "Spezi",
+          "description": "koffeinhaltige Limonade Cola/Orangenlimonade",
+          "variants": [
+            {
+              "label": "0,4 l",
+              "priceCents": 410
+            }
+          ],
+          "allergenCodes": [
+            "8",
+            "10"
+          ],
+          "tags": [],
+          "source": "635575616c6e1fa5e4fb304cbbb1389b8ff1852c.jpg",
+          "sourcePage": 10,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-946",
+          "number": "946",
+          "name": "Apfelsaft-Schorle",
+          "description": "Apfelsaft-Mineralwasser-Getränk",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-947",
+          "number": "947",
+          "name": "Apfelsaft-Schorle",
+          "description": "Apfelsaft-Mineralwasser-Getränk",
+          "variants": [
+            {
+              "label": "0,4 l",
+              "priceCents": 410
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-948",
+          "number": "948",
+          "name": "Bitter-Lemon",
+          "description": "chininhaltige Limonade",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 260
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 430
+            }
+          ],
+          "allergenCodes": [
+            "12"
+          ],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-949",
+          "number": "949",
+          "name": "Tonic Water",
+          "description": "chininhaltige Limonade",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 260
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 430
+            }
+          ],
+          "allergenCodes": [
+            "12"
+          ],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "bevande-analcolici-950",
+          "number": "950",
+          "name": "Ginger Ale",
+          "description": "ingwerhaltige Limonade",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 260
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 430
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "succhi",
+      "category": "Succhi",
+      "label": "Säfte",
+      "note": "",
+      "items": [
+        {
+          "id": "succhi-922",
+          "number": "922",
+          "name": "Succo di Ciliegie",
+          "description": "Kirschnektar",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "succhi-923",
+          "number": "923",
+          "name": "Succo di Pompelmo",
+          "description": "Grapefruitnektar",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "succhi-924",
+          "number": "924",
+          "name": "Succo d’Ananas",
+          "description": "Ananasnektar",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "succhi-925",
+          "number": "925",
+          "name": "Succo di Pomodoro",
+          "description": "Tomatensaft",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "succhi-926",
+          "number": "926",
+          "name": "Succo di Mele",
+          "description": "Apfelsaft",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "succhi-927",
+          "number": "927",
+          "name": "Succo di Banana",
+          "description": "Bananennektar",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "succhi-929",
+          "number": "929",
+          "name": "Succo d’Arancia",
+          "description": "Orangensaft",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        },
+        {
+          "id": "succhi-930",
+          "number": "930",
+          "name": "Succo Misto di Banana e Ciliegie",
+          "description": "KiBa – Kirsch-Bananen-Nektar",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 290
+            },
+            {
+              "label": "0,4 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "9b88011219dae2c6b6b717ec1c72da51a221a10a.jpg",
+          "sourcePage": 13,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "bevande-calde",
+      "category": "Bevande Calde",
+      "label": "Heiße Getränke",
+      "note": "",
+      "items": [
+        {
+          "id": "bevande-calde-9990",
+          "number": "9990",
+          "name": "Espresso, doppelt",
+          "description": "italienische Kaffee-Spezialität, groß",
+          "variants": [],
+          "allergenCodes": [
+            "10"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-990",
+          "number": "990",
+          "name": "Espresso",
+          "description": "italienische Kaffee-Spezialität",
+          "variants": [],
+          "allergenCodes": [
+            "10"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-991",
+          "number": "991",
+          "name": "Cappuccino",
+          "description": "italienische Kaffee-Spezialität mit geschäumter Milch",
+          "variants": [],
+          "allergenCodes": [
+            "B",
+            "10"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-992",
+          "number": "992",
+          "name": "Cappuccino",
+          "description": "italienische Kaffee-Spezialität mit Sahne",
+          "variants": [],
+          "allergenCodes": [
+            "B",
+            "10"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-993",
+          "number": "993",
+          "name": "Caffe Corretto",
+          "description": "Espresso mit einem Schuß Grappa",
+          "variants": [],
+          "allergenCodes": [
+            "10"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-994",
+          "number": "994",
+          "name": "Cioccolata Calda",
+          "description": "heiße Schokolade",
+          "variants": [],
+          "allergenCodes": [
+            "B"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-995",
+          "number": "995",
+          "name": "Te",
+          "description": "Tee nach Wahl",
+          "variants": [],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-996",
+          "number": "996",
+          "name": "Caffe Tedesco",
+          "description": "Kaffee nach deutscher Art",
+          "variants": [],
+          "allergenCodes": [
+            "10"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-997",
+          "number": "997",
+          "name": "Grog",
+          "description": "heißes Getränk aus Wasser, Zucker und Rum",
+          "variants": [],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-998",
+          "number": "998",
+          "name": "Vino Caldo",
+          "description": "Glühwein",
+          "variants": [],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        },
+        {
+          "id": "bevande-calde-999",
+          "number": "999",
+          "name": "Latte Macchiato",
+          "description": "italienische Kaffee-Spezialität mit Milch",
+          "variants": [],
+          "allergenCodes": [
+            "B",
+            "10"
+          ],
+          "tags": [],
+          "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
+          "sourcePage": 23,
+          "needsReview": true,
+          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "birra-alla-spina",
+      "category": "Birra alla Spina",
+      "label": "Bier vom Fass",
+      "note": "",
+      "items": [
+        {
+          "id": "birra-alla-spina-950",
+          "number": "950",
+          "name": "Köstritzer Pils",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,5 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [
+            "L"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-alla-spina-951",
+          "number": "951",
+          "name": "Köstritzer Pils",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,25 l",
+              "priceCents": 290
+            }
+          ],
+          "allergenCodes": [
+            "L"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-alla-spina-953",
+          "number": "953",
+          "name": "Köstritzer Schwarzbier",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,3 l",
+              "priceCents": 330
+            },
+            {
+              "label": "0,5 l",
+              "priceCents": 480
+            }
+          ],
+          "allergenCodes": [
+            "L"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-alla-spina-955",
+          "number": "955",
+          "name": "Köstritzer Kellerbier",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,25 l",
+              "priceCents": 330
+            },
+            {
+              "label": "0,5 l",
+              "priceCents": 480
+            }
+          ],
+          "allergenCodes": [
+            "L"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "birra-speziale",
+      "category": "Birra Speziale",
+      "label": "Spezial-Bier",
+      "note": "",
+      "items": [
+        {
+          "id": "birra-speziale-957",
+          "number": "957",
+          "name": "Erdinger Hefe-Weißbier, hell",
+          "description": "ungefiltertes, obergäriges, helles mit Weizen gebrautes Bier",
+          "variants": [
+            {
+              "label": "0,5 l",
+              "priceCents": 460
+            }
+          ],
+          "allergenCodes": [
+            "A"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-speziale-958",
+          "number": "958",
+          "name": "Erdinger Hefe-Weißbier, dunkel",
+          "description": "ungefiltertes, obergäriges, dunkles mit Weizen gebrautes Bier",
+          "variants": [
+            {
+              "label": "0,5 l",
+              "priceCents": 460
+            }
+          ],
+          "allergenCodes": [
+            "A"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-speziale-960",
+          "number": "960",
+          "name": "Auto Fahrer – Drink",
+          "description": "alkoholfreies Bier",
+          "variants": [
+            {
+              "label": "0,5 l",
+              "priceCents": 460
+            }
+          ],
+          "allergenCodes": [
+            "L"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-speziale-961",
+          "number": "961",
+          "name": "Auto Fahrer – Drink",
+          "description": "alkoholfreies Weißbier",
+          "variants": [
+            {
+              "label": "0,5 l",
+              "priceCents": 460
+            }
+          ],
+          "allergenCodes": [
+            "A"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-speziale-962",
+          "number": "962",
+          "name": "Radler",
+          "description": "Mixgetränk aus hellem Bier und Zitronenlimonade",
+          "variants": [
+            {
+              "label": "0,25 l",
+              "priceCents": 290
+            }
+          ],
+          "allergenCodes": [
+            "L"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        },
+        {
+          "id": "birra-speziale-963",
+          "number": "963",
+          "name": "Radler",
+          "description": "Mixgetränk aus hellem Bier und Zitronenlimonade",
+          "variants": [
+            {
+              "label": "0,5 l",
+              "priceCents": 450
+            }
+          ],
+          "allergenCodes": [
+            "L"
+          ],
+          "tags": [],
+          "source": "ffb3f840ef846fa45d94c2615774c7e41d3d4046.jpg",
+          "sourcePage": 25,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "vini-rossi",
+      "category": "Vini rossi",
+      "label": "Rotweine",
+      "note": "Flaschenpreise bitte beim Personal nachfragen. Alle Weine und Sekte enthalten Sulfite.",
+      "items": [
+        {
+          "id": "vini-rossi-902",
+          "number": "902",
+          "name": "Merlot",
+          "description": "milder, oft als halbtrocken bezeichneter Rotwein aus dem Süden",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-rossi-903",
+          "number": "903",
+          "name": "Montepulciano d’Abruzzo",
+          "description": "herber, leicht erdiger, trockener Rotwein aus den Abruzzen",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-rossi-904",
+          "number": "904",
+          "name": "Chianti",
+          "description": "weltberühmter Rotwein aus Oberitalien",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-rossi-905",
+          "number": "905",
+          "name": "Bardolino",
+          "description": "herb-fruchtiger Rotwein aus Norditalien",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-rossi-907",
+          "number": "907",
+          "name": "Lambrusco",
+          "description": "süßer, leicht moussierender Rotwein",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-rossi-908",
+          "number": "908",
+          "name": "Weinschorle, rot",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 650
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "vini-bianchi",
+      "category": "Vini Bianchi",
+      "label": "Weißweine & Sekt",
+      "note": "Flaschenpreise bitte beim Personal nachfragen. Alle Weine und Sekte enthalten Sulfite.",
+      "items": [
+        {
+          "id": "vini-bianchi-911",
+          "number": "911",
+          "name": "Soave",
+          "description": "trockener Weißwein",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 630
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-bianchi-912",
+          "number": "912",
+          "name": "Chardonnay",
+          "description": "leichter, trockener Weißwein",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 630
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-bianchi-913",
+          "number": "913",
+          "name": "Frizzantino",
+          "description": "spritziger, süßlicher-süffiger Weißwein",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 630
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-bianchi-914",
+          "number": "914",
+          "name": "Weinschorle, weiß",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 630
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-bianchi-915",
+          "number": "915",
+          "name": "Pinot Grigio",
+          "description": "halbtrockener Weißwein",
+          "variants": [
+            {
+              "label": "0,2 l",
+              "priceCents": 630
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-bianchi-919",
+          "number": "919",
+          "name": "Prosecco",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,1 l",
+              "priceCents": 390
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        },
+        {
+          "id": "vini-bianchi-920",
+          "number": "920",
+          "name": "Rotkäppchen, Sekt",
+          "description": "",
+          "variants": [
+            {
+              "label": "0,1 l",
+              "priceCents": 350
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "ad05d76bdc3d3f84ff72efede9119ba019984d0a.jpg",
+          "sourcePage": 14,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "cocktails",
+      "category": "Cocktails",
+      "label": "Cocktails",
+      "note": "",
+      "items": [
+        {
+          "id": "cocktails-760",
+          "number": "760",
+          "name": "Aperol Spritz",
+          "description": "Aperol, Sekt, Mineralwasser, Eiswürfel",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "cocktails-761",
+          "number": "761",
+          "name": "Tequila Sunrise",
+          "description": "weißer Tequila, Zitronensaft, Orangensaft, Grenadine",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "cocktails-762",
+          "number": "762",
+          "name": "Cuba Libre",
+          "description": "Rum, Cola, Limette",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "cocktails-763",
+          "number": "763",
+          "name": "Campari Orange",
+          "description": "Campari, Orangensaft, Eiswürfel",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "cocktails-764",
+          "number": "764",
+          "name": "Lillet Wildberry",
+          "description": "Lillet, Wildberry Limonade, Eiswürfel",
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 790
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    },
+    {
+      "id": "alcolici",
+      "category": "Alcolici",
+      "label": "Schnäpse & Liköre",
+      "note": "",
+      "items": [
+        {
+          "id": "alcolici-988",
+          "number": "988",
+          "name": "Sherry",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-9900",
+          "number": "9900",
+          "name": "Marsala",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-9910",
+          "number": "9910",
+          "name": "Averna",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 560
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 310
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-9911",
+          "number": "9911",
+          "name": "Wodka",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "1197b89ca64b4a68822aaeb6646d1ceae8f93380.jpg",
+          "sourcePage": 2,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-970",
+          "number": "970",
+          "name": "Kümmerling",
+          "description": "",
+          "variants": [
+            {
+              "label": "2 cl",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-971",
+          "number": "971",
+          "name": "Wilthener Gebirgskräuter",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 390
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-972",
+          "number": "972",
+          "name": "Obstler",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-973",
+          "number": "973",
+          "name": "Williams Christ",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-974",
+          "number": "974",
+          "name": "Doppel Korn",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 390
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-975",
+          "number": "975",
+          "name": "Goldkrone",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 390
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-976",
+          "number": "976",
+          "name": "Fernet Branca",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 560
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 310
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-977",
+          "number": "977",
+          "name": "Jägermeister",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-978",
+          "number": "978",
+          "name": "Bailey’s Irish Cream",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-979",
+          "number": "979",
+          "name": "Ramazotti",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 290
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-980",
+          "number": "980",
+          "name": "Amaretto di Saronno",
+          "description": "",
+          "variants": [
+            {
+              "label": "2 cl",
+              "priceCents": 250
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-981",
+          "number": "981",
+          "name": "Cointreau",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 560
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 310
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-982",
+          "number": "982",
+          "name": "Grappa",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 510
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 280
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-984",
+          "number": "984",
+          "name": "Vecchia Romagna",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 580
+            },
+            {
+              "label": "2 cl",
+              "priceCents": 350
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-985",
+          "number": "985",
+          "name": "Martini Bianco",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 480
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        },
+        {
+          "id": "alcolici-986",
+          "number": "986",
+          "name": "Martini Dry",
+          "description": "",
+          "variants": [
+            {
+              "label": "4 cl",
+              "priceCents": 480
+            }
+          ],
+          "allergenCodes": [],
+          "tags": [],
+          "source": "464263fb78f20bc74796604ed2a3081bb3e20e2c.jpg",
+          "sourcePage": 6,
+          "needsReview": false
+        }
+      ],
+      "group": "drinks"
+    }
+  ]
+}
