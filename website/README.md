@@ -38,10 +38,10 @@ Khách chọn món → xem tổng tiền → có thể sao chép danh sách → 
 
 ## Tài nguyên hình ảnh và font
 
-Tất cả 25 ảnh gốc là menu; không có ảnh độc lập của nhà hàng/món ăn hay logo. Wordmark được trình bày bằng typography, không được coi là logo có sẵn.
+25 ảnh gốc là menu. Bản cập nhật này bổ sung 7 ảnh thực tế độc lập của khách (1 ảnh trùng được bỏ qua); không có logo riêng. Wordmark được trình bày bằng typography, không được coi là logo có sẵn.
 
-- Hero và ảnh bàn ăn: ảnh minh họa do built-in imagegen tạo, có ghi rõ “KI-generiertes Stimmungsbild · Serviervorschlag” trên website; không đại diện cho ảnh món thật của nhà hàng. Prompt đầy đủ và provenance nằm trong `ASSETS.md`.
-- Hai ảnh nhỏ của sushi/tagliatelle được trích từ hình minh họa nằm trong menu cung cấp; ghi rõ “Motive aus unserer Speisekarte”.
+- Hero pizza vẫn là ảnh minh họa do built-in imagegen tạo và có ghi rõ “KI-generiertes Stimmungsbild · Serviervorschlag”; không đại diện cho ảnh món thật của nhà hàng. Khu khám phá, giới thiệu, đặt món và gallery dùng ảnh thực tế khách cung cấp. Nguồn và xử lý ảnh ghi trong `ASSETS.md`.
+- Hai crop sushi/tagliatelle từ menu gốc vẫn lưu trong assets để đối chiếu nhưng không dùng trên homepage.
 - `dist/assets/original-menu/`: đủ 25 trang menu, dùng làm đối chiếu tùy chọn qua nút Originalkarte; menu HTML là trải nghiệm chính.
 - Bebas Neue và Caveat: self-host, giấy phép SIL Open Font License trong `dist/assets/`. Không có asset/font/CSS nào được sao chép từ L’Osteria.
 

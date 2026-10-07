@@ -11,7 +11,21 @@ Final prompt:
 
 > Use case: photorealistic-natural. Asset type: illustrative restaurant website hero photograph, landscape 3:2. Primary request: premium editorial Italian food still-life photograph for La Mela d’oro restaurant website. Scene/backdrop: dark rustic wood table with deep earthy olive tones, close food composition with no visible restaurant interior. Subject: one rustic margherita pizza with tomato sauce, mozzarella, and oregano as the exact toppings; partial plate of spaghetti with tomato sauce secondary at an edge. Pizza is the clear main focus. Style/medium: polished natural food photography, realistically appetizing, subtle film character. Composition/framing: landscape 3:2, close overhead/45-degree angle, pizza fills most of the frame, cropped secondary spaghetti at the perimeter; compelling crop that remains recognizable on mobile. Lighting/mood: soft natural daylight with gentle shadows and warm appetizing colors. Color palette: forest olive #25382c, antique gold #c7a45f accents, tomato reds and creamy mozzarella. Materials/textures: tactile charred crust, melted mozzarella, delicate oregano, worn dark wood, restrained linen accent. Constraints: exactly one image. Food illustration only, no claimed restaurant setting. No people, text, letters, logos, watermark. Do not add other toppings to the margherita; basil may appear only as a restrained table accent away from pizza.
 
-Additional illustrative table scene, generated for the redesigned food discovery and ordering sections: `/mnt/c/Users/noc/.codex/generated_images/01a111ea-44ce-7863-a510-f2a97247815c/exec-2b0a6bf2-e090-4427-9117-7606ea8c43e0.png`. Responsive outputs: `dist/assets/table-1600.webp` and `table-800.webp`. The scene shows pizza, tomato pasta and sushi as visual examples, with no claim that these are photographs of dishes served by the restaurant.
+## Supplied restaurant photographs
+
+Seven distinct customer photos were supplied for this update. The eighth file (`1791350753176_...jpg`) is byte-identical to the dining-room photo and is intentionally omitted. The website uses resized, metadata-stripped WebP copies in `dist/assets/restaurant/`:
+
+| Website asset | Supplied source photo | Placement |
+| --- | --- | --- |
+| `sushi-*` | `1791350744454_...jpg` | Menu discovery and gallery |
+| `dining-room-*` | `1791350748565_...jpg` | Restaurant story and gallery |
+| `guests-*` | `1791350757742_...jpg` | Ordering block and gallery |
+| `set-table-750` | `1791350724832_...jpg` | Gallery |
+| `birthday-table-1200` | `1791350730716_...jpg` | Gallery |
+| `birthday-room-1200` | `1791350735181_...jpg` | Gallery |
+| `archway-1200` | `1791350740875_...jpg` | Gallery |
+
+The original supplied JPEGs remain in the user's attachment folder. The optimized files do not retain EXIF metadata. The AI pizza remains only in the hero and is labeled as an illustration; the former AI table scene was removed from the website.
 
 ## Supplied illustrations
 
