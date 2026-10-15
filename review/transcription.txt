@@ -267,17 +267,17 @@ extra|Kroketten / Pommes Frites / Bratkartoffeln|Portion / extra|4.50|
 723|Focaccina con Aglio, Olio, Rosmarino, Oregano|frisch gebackenes, dickes italienisches Fladenbrot mit Knoblauch, Olivenöl, Rosmarin, Oregano und Salzkristallen|6.50|A,B,D
 724|Bruschetta|4 Stück gegrilltes mit Tomatenstückchen und Kräutern belegtes Brot|6.50|A,B,D
 @23|Bevande Calde|Heiße Getränke
-9990|Espresso, doppelt|italienische Kaffee-Spezialität, groß|?|10
-990|Espresso|italienische Kaffee-Spezialität|?|10
-991|Cappuccino|italienische Kaffee-Spezialität mit geschäumter Milch|?|B,10
-992|Cappuccino|italienische Kaffee-Spezialität mit Sahne|?|B,10
-993|Caffe Corretto|Espresso mit einem Schuß Grappa|?|10
-994|Cioccolata Calda|heiße Schokolade|?|B
-995|Te|Tee nach Wahl|?|
-996|Caffe Tedesco|Kaffee nach deutscher Art|?|10
-997|Grog|heißes Getränk aus Wasser, Zucker und Rum|?|
-998|Vino Caldo|Glühwein|?|
-999|Latte Macchiato|italienische Kaffee-Spezialität mit Milch|?|B,10
+9990|Espresso, doppelt|italienische Kaffee-Spezialität, groß|3.90|10
+990|Espresso|italienische Kaffee-Spezialität|2.90|10
+991|Cappuccino|italienische Kaffee-Spezialität mit geschäumter Milch|3.90|B,10
+992|Cappuccino|italienische Kaffee-Spezialität mit Sahne|4.90|B,10
+993|Caffe Corretto|Espresso mit einem Schuß Grappa|6.90|10
+994|Cioccolata Calda|heiße Schokolade|6.90|B
+995|Te|Tee nach Wahl|3.90|
+996|Caffe Tedesco|Kaffee nach deutscher Art|3.90|10
+997|Grog|heißes Getränk aus Wasser, Zucker und Rum|5.10|
+998|Vino Caldo|Glühwein|5.10|
+999|Latte Macchiato|italienische Kaffee-Spezialität mit Milch|4.50|B,10
 @24|Sushi Menü|Sushi-Menüs|Ab 3 Personen empfehlen wir unser Überraschungsmenü unseres Sushimeisters. Bitte fragen Sie unseren Service.
 161|Veggie|1 Person; 2 Stück Nigiri + 6 Stück Maki + 8 Stück Inside Out Roll|19.90|
 162|Sake Deluxe|Lachs, 1 Person; 2 Stück Sake Nigiri + 6 Stück Sake Maki + 8 Stück Sake Roll + 3 Stück Sake Sashimi|24.90|

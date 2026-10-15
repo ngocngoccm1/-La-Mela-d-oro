@@ -20,6 +20,7 @@ for line in (root/'review/transcription.txt').read_text().splitlines():
  if number=='extra': variants=[{'label':s,'priceCents':450} for s in ['Kroketten','Pommes Frites','Bratkartoffeln']]
  # Source repeats number 950 for Ginger Ale and beer. IDs are category-qualified.
  item={'id':catid+'-'+number,'number':number if number!='extra' else '', 'name':name,'description':description,'variants':variants,'allergenCodes':[c for c in codes.split(',') if c], 'tags':(['vegetarisch'] if number in veg else [])+(['scharf'] if number in scharf else []),'source':inv[source-1]['file'],'sourcePage':source,'needsReview':prices=='?'}
+ if source==23: item['priceSource']='source-menu/hot-drinks-2026-10-15.png'
  if prices=='?': item['reviewReason']='Preis am rechten Bildrand abgeschnitten; nicht ergänzt.'
  category['items'].append(item)
 food=['pizze','antipasti','zuppe','insalate','pizzapane-pizzabrot','spaghetti','penne','rigatoni','tagliatelle','tortellini','canelloni','lasagne','primi-piatti-di-riso','carni-di-maiale','carni-di-manzo-e-vitello','pesce-di-mare','pesce-dacqua-dolce','spezialita-per-bambini','beilagen','dolce','gelati']

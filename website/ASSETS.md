@@ -38,3 +38,7 @@ Website does not fetch stock imagery or assets from L’Osteria.
 ## Fonts
 
 Bebas Neue and Caveat, Google Fonts, SIL OFL. Self-hosted TTF files and licenses are shipped with the website. UI/body text uses system Arial/Helvetica. No requests to external font services are needed at runtime.
+
+## Menu update · 15 October 2026
+
+Customer clipboard photos are preserved in `source-menu/hot-drinks-2026-10-15.png` and `source-menu/japanese-cuisine-2026-10-15.png`. The hot-drinks photo supplies all 11 previously cropped prices and replaces `dist/assets/original-menu/page-23.webp`. The Japanese-cuisine photo confirms the existing items 190–192 and their prices (31.90 / 19.90 / 23.90 EUR); no duplicate items were added.

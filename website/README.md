@@ -26,7 +26,7 @@ Giá: `990` = 9,90 €. Nếu có lựa chọn nhiều size/dung tích, mỗi l�
 
 ## Những dữ liệu chưa có / cần duyệt
 
-- 11 món đồ uống nóng ở trang 23 bị cắt mất giá. Giữ `variants: []` và `needsReview: true`; website hiện “Preis bitte erfragen”, không thêm vào tổng tiền. Khi có giá chính xác, điền `variants`, đổi `needsReview` thành false và bỏ `reviewReason`.
+- Đã bổ sung đủ giá 11 món đồ uống nóng từ ảnh mới ngày 15.10.2026, lưu trong `source-menu/hot-drinks-2026-10-15.png`. Trang Originalkarte 23 cũng được thay bằng ảnh chụp đầy đủ giá. Ba món Japanische Küche (190–192) đã được đối chiếu với ảnh mới và khớp dữ liệu; không tạo món trùng.
 - Tài liệu không có bảng giải nghĩa allergen/zusatzstoffe. Giữ mã nguyên bản, không tự gán ý nghĩa; khách được hướng dẫn hỏi nhà hàng. Không có nhãn Vegan được xác nhận nên không tạo filter Vegan. Vegetarian và Scharf chỉ dùng những tên/mô tả ghi rõ trên menu.
 - Không có email, mạng xã hội, link đặt hàng, link booking, API thanh toán hoặc số WhatsApp trong Word. Website chỉ dùng số điện thoại đã cung cấp, không thêm liên kết giả.
 - Không xác nhận dịch vụ Lieferung/Abholung, phí hoặc khu vực giao; không đưa ra các cam kết này.

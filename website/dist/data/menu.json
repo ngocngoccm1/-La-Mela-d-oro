@@ -4217,37 +4217,52 @@
           "number": "9990",
           "name": "Espresso, doppelt",
           "description": "italienische Kaffee-Spezialität, groß",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 390
+            }
+          ],
           "allergenCodes": [
             "10"
           ],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-990",
           "number": "990",
           "name": "Espresso",
           "description": "italienische Kaffee-Spezialität",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 290
+            }
+          ],
           "allergenCodes": [
             "10"
           ],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-991",
           "number": "991",
           "name": "Cappuccino",
           "description": "italienische Kaffee-Spezialität mit geschäumter Milch",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 390
+            }
+          ],
           "allergenCodes": [
             "B",
             "10"
@@ -4255,15 +4270,20 @@
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-992",
           "number": "992",
           "name": "Cappuccino",
           "description": "italienische Kaffee-Spezialität mit Sahne",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 490
+            }
+          ],
           "allergenCodes": [
             "B",
             "10"
@@ -4271,99 +4291,134 @@
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-993",
           "number": "993",
           "name": "Caffe Corretto",
           "description": "Espresso mit einem Schuß Grappa",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
           "allergenCodes": [
             "10"
           ],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-994",
           "number": "994",
           "name": "Cioccolata Calda",
           "description": "heiße Schokolade",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 690
+            }
+          ],
           "allergenCodes": [
             "B"
           ],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-995",
           "number": "995",
           "name": "Te",
           "description": "Tee nach Wahl",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 390
+            }
+          ],
           "allergenCodes": [],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-996",
           "number": "996",
           "name": "Caffe Tedesco",
           "description": "Kaffee nach deutscher Art",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 390
+            }
+          ],
           "allergenCodes": [
             "10"
           ],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-997",
           "number": "997",
           "name": "Grog",
           "description": "heißes Getränk aus Wasser, Zucker und Rum",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 510
+            }
+          ],
           "allergenCodes": [],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-998",
           "number": "998",
           "name": "Vino Caldo",
           "description": "Glühwein",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 510
+            }
+          ],
           "allergenCodes": [],
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         },
         {
           "id": "bevande-calde-999",
           "number": "999",
           "name": "Latte Macchiato",
           "description": "italienische Kaffee-Spezialität mit Milch",
-          "variants": [],
+          "variants": [
+            {
+              "label": "Portion",
+              "priceCents": 450
+            }
+          ],
           "allergenCodes": [
             "B",
             "10"
@@ -4371,8 +4426,8 @@
           "tags": [],
           "source": "dd461b9de4f3edaa83ff9fcd05e91c4914ca8de9.jpg",
           "sourcePage": 23,
-          "needsReview": true,
-          "reviewReason": "Preis am rechten Bildrand abgeschnitten; nicht ergänzt."
+          "needsReview": false,
+          "priceSource": "source-menu/hot-drinks-2026-10-15.png"
         }
       ],
       "group": "drinks"
