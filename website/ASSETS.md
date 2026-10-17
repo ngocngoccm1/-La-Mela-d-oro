@@ -42,3 +42,16 @@ Bebas Neue and Caveat, Google Fonts, SIL OFL. Self-hosted TTF files and licenses
 ## Menu update · 15 October 2026
 
 Customer clipboard photos are preserved in `source-menu/hot-drinks-2026-10-15.png` and `source-menu/japanese-cuisine-2026-10-15.png`. The hot-drinks photo supplies all 11 previously cropped prices and replaces `dist/assets/original-menu/page-23.webp`. The Japanese-cuisine photo confirms the existing items 190–192 and their prices (31.90 / 19.90 / 23.90 EUR); no duplicate items were added.
+
+## Celebration videos · 17 October 2026
+
+Four customer-supplied clips from the attachment folder were re-encoded in full to H.264/AAC MP4 with fast-start playback and stripped metadata. Native aspect ratios, duration, and audio are retained; no scenes were generated or combined. Files live in `dist/assets/celebrations/`. WebP posters were extracted at 8 seconds. Video files load only after a visitor selects a clip.
+
+| Asset | Original filename | Duration |
+| --- | --- | --- |
+| `feier-1.mp4` | `AQM4Hq2dzLq9Ef2T6_vz7Wz27P_lEsUtGIQMr7Bx4D0oDLWcZQdRmE5_WmBCht5e4lZrBsp6rQ4S0gJKRUJ7o4Q3YFPbQMafeOJsCmnyhw.mp4` | 00:01:40.50 |
+| `feier-2.mp4` | `AQMCKfbYCQnQy7OYpaUo40CSyX5173-lIB8eFEJBtpJ7IpzZg4Bwze_Dd7Sh_c80-wWKrRvnz42nAP_L7tEmtcu1FoiygTk-9kSztOn6ew.mp4` | 00:03:04.23 |
+| `feier-3.mp4` | `AQOl-SsZFStLb85iTA45LRVp_ucURYsSDsKmbmtgjIye0WR6DbYKNhY4v2fLs2IAOXmvHdEu8Da1_q1NOe7YRWKa8jy0Ss1ysjmHeJyOpg.mp4` | 00:02:21.53 |
+| `feier-4.mp4` | `AQPAYJaHy3V2UfKasxQ-1B7nUQ_SBDVmGVAgDYnz2t95FY-DeW6yTkn68qn3n2--ZB6lbubu31IKhjvZgGxwfnCzdvJA659BUvE9Yg9hng.mp4` | 00:01:03.00 |
+
+The accompanying German copy about weekend birthdays, weddings, and family celebrations comes from the customer’s instruction on 17 October 2026. Party enquiries use the verified restaurant telephone number.

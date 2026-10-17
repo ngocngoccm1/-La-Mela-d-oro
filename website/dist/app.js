@@ -61,3 +61,22 @@ function renderHours(){if(!restaurant?.openingHours)return;$('#opening-hours').i
 async function loadMenu() {$('#menu-error').hidden=true;try{const responses=await Promise.all([fetch('data/menu.json'),fetch('data/restaurant.json')]);if(responses.some(r=>!r.ok))throw new Error('Daten nicht verfügbar');[menu,restaurant]=await Promise.all(responses.map(r=>r.json()));if(!Array.isArray(menu.categories))throw new Error('Menüdaten ungültig');items=new Map(menu.categories.flatMap(c=>c.items.map(item=>[item.id,item])));restore();renderCategories();renderMenu();renderCart();renderHours();updateCounts();}catch(error){$('#menu-error').hidden=false;$('#result-count').textContent='';console.error(error);}}
 $('#retry-menu').addEventListener('click',loadMenu);
 loadMenu();
+
+// Load event videos only after a visitor chooses a clip.
+const celebrationPlayer = $('#celebration-player');
+$$('[data-video]').forEach(link => link.addEventListener('click', event => {
+ event.preventDefault();
+ $('#video-title').textContent = link.dataset.title;
+ $('#video-direct-link').href = link.href;
+ $('#video-error').hidden = true;
+ celebrationPlayer.poster = $('img', link).src;
+ celebrationPlayer.src = link.href;
+ showDialog($('#video-dialog'));
+ celebrationPlayer.play().catch(() => {});
+}));
+celebrationPlayer.addEventListener('error', () => { if(celebrationPlayer.getAttribute('src')) $('#video-error').hidden = false; });
+$('#video-dialog').addEventListener('close', () => {
+ celebrationPlayer.pause();
+ celebrationPlayer.removeAttribute('src');
+ celebrationPlayer.load();
+});

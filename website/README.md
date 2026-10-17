@@ -50,3 +50,7 @@ Khách chọn món → xem tổng tiền → có thể sao chép danh sách → 
 Các viewport 375, 390, 430, 768, 1440, 1920px; kiểm tra scrollWidth, ảnh tải, menu di động, tìm kiếm theo tên/category, kết quả rỗng, lựa chọn size, cộng/trừ/xóa/clear, tổng tiền, reload persistence, chống dữ liệu localStorage không hợp lệ, ảnh original, filter và reduced motion. Kết quả cùng ảnh chụp nằm trong folder `../review/`.
 
 Blueprint thiết kế: https://losteria.net/de/ (hero full-bleed, mảng đỏ/trắng/đen, typography hẹp đậm, menu khám phá trên ảnh, khu CTA, footer; code và tài nguyên riêng). Giờ mở cửa: https://maps.app.goo.gl/2YcBp9PybKwvrkx46.
+
+## Video tiệc · 17.10.2026
+
+Galerie có thêm 4 clip thật, giữ toàn bộ thời lượng và âm thanh gốc. Chỉ tải MP4 khi khách bấm ảnh xem trước; video mở bằng dialog với controls, playsinline, đóng bằng nút hoặc Escape và dừng ngay khi đóng. `dist/assets/celebrations/` chứa MP4 H.264/AAC đã tối ưu và poster WebP. Chú thích nhận đặt bàn sinh nhật/đám cưới/tiệc gia đình cuối tuần lấy từ yêu cầu mới của khách; nút hỏi đặt tiệc gọi số điện thoại hiện có. Root `../index.html` tiếp tục chuyển tới `dist/` qua đường dẫn tương đối cho GitHub Pages.
